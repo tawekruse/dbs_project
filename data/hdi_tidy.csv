@@ -1,0 +1,5137 @@
+country_name,year,hdi_index
+Afghanistan,1990,302
+Albania,1990,650
+ Algeria,1990,572
+ Argentina,1990,718
+ Armenia,1990,654
+ Australia,1990,871
+ Austria,1990,803
+ Bahrain,1990,749
+ Bangladesh,1990,394
+ Barbados,1990,732
+ Belgium,1990,813
+ Belize,1990,610
+ Benin,1990,364
+ Bolivia ,1990,551
+ Botswana,1990,573
+ Brazil,1990,613
+ Brunei Darussalam,1990,767
+ Bulgaria,1990,708
+ Burundi,1990,299
+ Cambodia,1990,368
+ Cameroon,1990,448
+ Canada,1990,850
+ Central African Republic,1990,334
+ Chile,1990,706
+ China,1990,499
+ Colombia,1990,603
+"Congo, Rep.",1990,500
+"Congo, Dem. Rep.",1990,369
+ Costa Rica,1990,665
+ Croatia,1990,677
+ Cuba,1990,680
+ Cyprus,1990,735
+Czech Republic,1990,738
+Cote d'Ivoire,1990,404
+ Denmark,1990,806
+ Dominican Republic,1990,599
+ Ecuador,1990,648
+"Egypt, Arab Rep.",1990,548
+ El Salvador,1990,536
+ Estonia,1990,735
+ Eswatini,1990,541
+ Fiji,1990,662
+ Finland,1990,790
+ France,1990,786
+ Gabon,1990,613
+" Gambia, The",1990,349
+ Germany,1990,808
+ Ghana,1990,465
+ Greece,1990,761
+ Guatemala,1990,481
+ Guinea,1990,282
+ Guyana,1990,548
+ Haiti,1990,414
+ Honduras,1990,519
+" Hong Kong, China (SAR)",1990,784
+ Hungary,1990,708
+ Iceland,1990,807
+ India,1990,429
+ Indonesia,1990,523
+"Iran, Islamic Rep.",1990,565
+ Iraq,1990,560
+ Ireland,1990,773
+ Israel,1990,801
+ Italy,1990,776
+ Jamaica,1990,645
+ Japan,1990,818
+ Jordan,1990,625
+ Kazakhstan,1990,690
+ Kenya,1990,482
+"Korea, Dem. People’s Rep.",1990,732
+ Kuwait,1990,705
+Kyrgyz Republic,1990,640
+Lao PDR,1990,405
+ Latvia,1990,711
+ Lesotho,1990,498
+ Libya,1990,724
+ Lithuania,1990,738
+ Luxembourg,1990,797
+ Malawi,1990,333
+ Malaysia,1990,643
+ Mali,1990,234
+ Malta,1990,752
+ Mauritania,1990,397
+ Mauritius,1990,624
+ Mexico,1990,656
+ Moldova,1990,690
+ Mongolia,1990,578
+ Morocco,1990,457
+ Mozambique,1990,227
+ Myanmar,1990,342
+ Namibia,1990,581
+ Nepal,1990,387
+ Netherlands,1990,836
+ New Zealand,1990,826
+ Nicaragua,1990,497
+ Niger,1990,220
+ Norway,1990,849
+ Pakistan,1990,402
+ Panama,1990,675
+ Papua New Guinea,1990,380
+ Paraguay,1990,598
+ Peru,1990,613
+ Philippines,1990,593
+ Poland,1990,718
+ Portugal,1990,718
+ Qatar,1990,750
+ Romania,1990,708
+ Russian Federation,1990,735
+Rwanda,1990,248
+ Samoa,1990,633
+ Sao Tome and Principe,1990,452
+ Saudi Arabia,1990,697
+ Senegal,1990,376
+ Serbia,1990,722
+ Sierra Leone,1990,287
+ Singapore,1990,721
+Slovak Republic,1990,741
+ Slovenia,1990,774
+ South Africa,1990,627
+ Spain,1990,761
+ Sri Lanka,1990,629
+ Sudan,1990,331
+ Sweden,1990,821
+ Switzerland,1990,840
+ Syrian Arab Republic,1990,550
+ Tajikistan,1990,617
+ Tanzania,1990,368
+ Thailand,1990,577
+ Togo,1990,406
+ Tonga,1990,654
+ Trinidad and Tobago,1990,668
+ Tunisia,1990,567
+ Turkey,1990,583
+ Uganda,1990,320
+ Ukraine,1990,725
+ United Arab Emirates,1990,723
+ United Kingdom,1990,781
+ United States,1990,865
+ Uruguay,1990,694
+"Venezuela, RB",1990,644
+Vietnam,1990,483
+"Yemen, Rep.",1990,401
+Zambia,1990,421
+Zimbabwe,1990,478
+Afghanistan,1991,307
+Albania,1991,631
+ Algeria,1991,576
+ Argentina,1991,725
+ Armenia,1991,648
+ Australia,1991,871
+ Austria,1991,808
+ Bahrain,1991,755
+ Bangladesh,1991,401
+ Barbados,1991,733
+ Belgium,1991,817
+ Belize,1991,614
+ Benin,1991,371
+ Bolivia ,1991,559
+ Botswana,1991,579
+ Brazil,1991,621
+ Brunei Darussalam,1991,771
+ Bulgaria,1991,705
+ Burundi,1991,302
+ Cambodia,1991,372
+ Cameroon,1991,445
+ Canada,1991,854
+ Central African Republic,1991,328
+ Chile,1991,715
+ China,1991,507
+ Colombia,1991,606
+"Congo, Rep.",1991,499
+"Congo, Dem. Rep.",1991,366
+ Costa Rica,1991,672
+ Croatia,1991,672
+ Cuba,1991,674
+ Cyprus,1991,738
+Czech Republic,1991,733
+Cote d'Ivoire,1991,404
+ Denmark,1991,811
+ Dominican Republic,1991,603
+ Ecuador,1991,650
+"Egypt, Arab Rep.",1991,552
+ El Salvador,1991,540
+ Estonia,1991,730
+ Eswatini,1991,542
+ Fiji,1991,669
+ Finland,1991,793
+ France,1991,796
+ Gabon,1991,618
+" Gambia, The",1991,354
+ Germany,1991,816
+ Ghana,1991,470
+ Greece,1991,770
+ Guatemala,1991,487
+ Guinea,1991,287
+ Guyana,1991,544
+ Haiti,1991,418
+ Honduras,1991,518
+" Hong Kong, China (SAR)",1991,789
+ Hungary,1991,706
+ Iceland,1991,820
+ India,1991,433
+ Indonesia,1991,529
+"Iran, Islamic Rep.",1991,583
+ Iraq,1991,512
+ Ireland,1991,777
+ Israel,1991,808
+ Italy,1991,782
+ Jamaica,1991,648
+ Japan,1991,823
+ Jordan,1991,636
+ Kazakhstan,1991,684
+ Kenya,1991,480
+"Korea, Dem. People’s Rep.",1991,743
+ Kuwait,1991,665
+Kyrgyz Republic,1991,634
+Lao PDR,1991,410
+ Latvia,1991,706
+ Lesotho,1991,495
+ Libya,1991,734
+ Lithuania,1991,734
+ Luxembourg,1991,804
+ Malawi,1991,340
+ Malaysia,1991,651
+ Mali,1991,241
+ Malta,1991,757
+ Mauritania,1991,402
+ Mauritius,1991,630
+ Mexico,1991,660
+ Moldova,1991,680
+ Mongolia,1991,573
+ Morocco,1991,463
+ Mozambique,1991,231
+ Myanmar,1991,349
+ Namibia,1991,583
+ Nepal,1991,395
+ Netherlands,1991,840
+ New Zealand,1991,827
+ Nicaragua,1991,506
+ Niger,1991,223
+ Norway,1991,854
+ Pakistan,1991,407
+ Panama,1991,680
+ Papua New Guinea,1991,389
+ Paraguay,1991,604
+ Peru,1991,620
+ Philippines,1991,595
+ Poland,1991,716
+ Portugal,1991,727
+ Qatar,1991,747
+ Romania,1991,694
+ Russian Federation,1991,731
+Rwanda,1991,220
+ Samoa,1991,634
+ Sao Tome and Principe,1991,454
+ Saudi Arabia,1991,705
+ Senegal,1991,377
+ Serbia,1991,719
+ Sierra Leone,1991,280
+ Singapore,1991,731
+Slovak Republic,1991,736
+ Slovenia,1991,772
+ South Africa,1991,634
+ Spain,1991,770
+ Sri Lanka,1991,634
+ Sudan,1991,336
+ Sweden,1991,823
+ Switzerland,1991,842
+ Syrian Arab Republic,1991,556
+ Tajikistan,1991,612
+ Tanzania,1991,369
+ Thailand,1991,586
+ Togo,1991,409
+ Tonga,1991,659
+ Trinidad and Tobago,1991,670
+ Tunisia,1991,573
+ Turkey,1991,587
+ Uganda,1991,320
+ Ukraine,1991,721
+ United Arab Emirates,1991,735
+ United Kingdom,1991,794
+ United States,1991,867
+ Uruguay,1991,699
+"Venezuela, RB",1991,654
+Vietnam,1991,493
+"Yemen, Rep.",1991,401
+Zambia,1991,417
+Zimbabwe,1991,481
+Afghanistan,1992,316
+Albania,1992,615
+ Algeria,1992,582
+ Argentina,1992,730
+ Armenia,1992,618
+ Australia,1992,873
+ Austria,1992,813
+ Bahrain,1992,760
+ Bangladesh,1992,410
+ Barbados,1992,733
+ Belgium,1992,832
+ Belize,1992,621
+ Benin,1992,375
+ Bolivia ,1992,566
+ Botswana,1992,577
+ Brazil,1992,627
+ Brunei Darussalam,1992,777
+ Bulgaria,1992,705
+ Burundi,1992,299
+ Cambodia,1992,377
+ Cameroon,1992,441
+ Canada,1992,857
+ Central African Republic,1992,315
+ Chile,1992,722
+ China,1992,517
+ Colombia,1992,617
+"Congo, Rep.",1992,499
+"Congo, Dem. Rep.",1992,361
+ Costa Rica,1992,680
+ Croatia,1992,672
+ Cuba,1992,667
+ Cyprus,1992,742
+Czech Republic,1992,736
+Cote d'Ivoire,1992,405
+ Denmark,1992,815
+ Dominican Republic,1992,612
+ Ecuador,1992,654
+"Egypt, Arab Rep.",1992,559
+ El Salvador,1992,552
+ Estonia,1992,722
+ Eswatini,1992,539
+ Fiji,1992,672
+ Finland,1992,801
+ France,1992,804
+ Gabon,1992,617
+" Gambia, The",1992,358
+ Germany,1992,821
+ Ghana,1992,474
+ Greece,1992,771
+ Guatemala,1992,493
+ Guinea,1992,291
+ Guyana,1992,559
+ Haiti,1992,418
+ Honduras,1992,523
+" Hong Kong, China (SAR)",1992,794
+ Hungary,1992,711
+ Iceland,1992,823
+ India,1992,440
+ Indonesia,1992,534
+"Iran, Islamic Rep.",1992,596
+ Iraq,1992,527
+ Ireland,1992,782
+ Israel,1992,815
+ Italy,1992,788
+ Jamaica,1992,655
+ Japan,1992,826
+ Jordan,1992,657
+ Kazakhstan,1992,682
+ Kenya,1992,476
+"Korea, Dem. People’s Rep.",1992,750
+ Kuwait,1992,659
+Kyrgyz Republic,1992,625
+Lao PDR,1992,415
+ Latvia,1992,685
+ Lesotho,1992,493
+ Libya,1992,740
+ Lithuania,1992,719
+ Luxembourg,1992,809
+ Malawi,1992,348
+ Malaysia,1992,660
+ Mali,1992,246
+ Malta,1992,762
+ Mauritania,1992,410
+ Mauritius,1992,637
+ Mexico,1992,664
+ Moldova,1992,661
+ Mongolia,1992,560
+ Morocco,1992,467
+ Mozambique,1992,227
+ Myanmar,1992,363
+ Namibia,1992,587
+ Nepal,1992,402
+ Netherlands,1992,841
+ New Zealand,1992,832
+ Nicaragua,1992,513
+ Niger,1992,226
+ Norway,1992,861
+ Pakistan,1992,413
+ Panama,1992,688
+ Papua New Guinea,1992,398
+ Paraguay,1992,608
+ Peru,1992,620
+ Philippines,1992,598
+ Poland,1992,719
+ Portugal,1992,739
+ Qatar,1992,751
+ Romania,1992,686
+ Russian Federation,1992,720
+Rwanda,1992,202
+ Samoa,1992,634
+ Sao Tome and Principe,1992,457
+ Saudi Arabia,1992,710
+ Senegal,1992,377
+ Serbia,1992,706
+ Sierra Leone,1992,278
+ Singapore,1992,742
+Slovak Republic,1992,735
+ Slovenia,1992,774
+ South Africa,1992,642
+ Spain,1992,779
+ Sri Lanka,1992,639
+ Sudan,1992,344
+ Sweden,1992,826
+ Switzerland,1992,845
+ Syrian Arab Republic,1992,560
+ Tajikistan,1992,592
+ Tanzania,1992,367
+ Thailand,1992,592
+ Togo,1992,400
+ Tonga,1992,661
+ Trinidad and Tobago,1992,670
+ Tunisia,1992,581
+ Turkey,1992,594
+ Uganda,1992,313
+ Ukraine,1992,713
+ United Arab Emirates,1992,738
+ United Kingdom,1992,807
+ United States,1992,872
+ Uruguay,1992,702
+"Venezuela, RB",1992,660
+Vietnam,1992,504
+"Yemen, Rep.",1992,404
+Zambia,1992,416
+Zimbabwe,1992,467
+Afghanistan,1993,312
+Albania,1993,618
+ Algeria,1993,586
+ Argentina,1993,735
+ Armenia,1993,617
+ Australia,1993,876
+ Austria,1993,817
+ Bahrain,1993,769
+ Bangladesh,1993,418
+ Barbados,1993,737
+ Belgium,1993,845
+ Belize,1993,624
+ Benin,1993,382
+ Bolivia ,1993,573
+ Botswana,1993,576
+ Brazil,1993,635
+ Brunei Darussalam,1993,781
+ Bulgaria,1993,704
+ Burundi,1993,299
+ Cambodia,1993,381
+ Cameroon,1993,435
+ Canada,1993,855
+ Central African Republic,1993,315
+ Chile,1993,715
+ China,1993,527
+ Colombia,1993,624
+"Congo, Rep.",1993,493
+"Congo, Dem. Rep.",1993,355
+ Costa Rica,1993,687
+ Croatia,1993,674
+ Cuba,1993,660
+ Cyprus,1993,779
+Czech Republic,1993,743
+Cote d'Ivoire,1993,406
+ Denmark,1993,822
+ Dominican Republic,1993,619
+ Ecuador,1993,658
+"Egypt, Arab Rep.",1993,564
+ El Salvador,1993,562
+ Estonia,1993,715
+ Eswatini,1993,534
+ Fiji,1993,675
+ Finland,1993,805
+ France,1993,810
+ Gabon,1993,619
+" Gambia, The",1993,362
+ Germany,1993,831
+ Ghana,1993,478
+ Greece,1993,770
+ Guatemala,1993,499
+ Guinea,1993,296
+ Guyana,1993,572
+ Haiti,1993,418
+ Honduras,1993,530
+" Hong Kong, China (SAR)",1993,802
+ Hungary,1993,724
+ Iceland,1993,824
+ India,1993,446
+ Indonesia,1993,541
+"Iran, Islamic Rep.",1993,607
+ Iraq,1993,548
+ Ireland,1993,791
+ Israel,1993,821
+ Italy,1993,793
+ Jamaica,1993,670
+ Japan,1993,831
+ Jordan,1993,668
+ Kazakhstan,1993,675
+ Kenya,1993,472
+"Korea, Dem. People’s Rep.",1993,760
+ Kuwait,1993,688
+Kyrgyz Republic,1993,612
+Lao PDR,1993,421
+ Latvia,1993,674
+ Lesotho,1993,487
+ Libya,1993,744
+ Lithuania,1993,708
+ Luxembourg,1993,813
+ Malawi,1993,356
+ Malaysia,1993,667
+ Mali,1993,253
+ Malta,1993,766
+ Mauritania,1993,423
+ Mauritius,1993,643
+ Mexico,1993,668
+ Moldova,1993,660
+ Mongolia,1993,546
+ Morocco,1993,473
+ Mozambique,1993,234
+ Myanmar,1993,369
+ Namibia,1993,587
+ Nepal,1993,407
+ Netherlands,1993,846
+ New Zealand,1993,844
+ Nicaragua,1993,516
+ Niger,1993,231
+ Norway,1993,869
+ Pakistan,1993,417
+ Panama,1993,696
+ Papua New Guinea,1993,411
+ Paraguay,1993,615
+ Peru,1993,625
+ Philippines,1993,601
+ Poland,1993,730
+ Portugal,1993,753
+ Qatar,1993,762
+ Romania,1993,686
+ Russian Federation,1993,712
+Rwanda,1993,197
+ Samoa,1993,639
+ Sao Tome and Principe,1993,460
+ Saudi Arabia,1993,714
+ Senegal,1993,377
+ Serbia,1993,690
+ Sierra Leone,1993,282
+ Singapore,1993,753
+Slovak Republic,1993,738
+ Slovenia,1993,776
+ South Africa,1993,648
+ Spain,1993,789
+ Sri Lanka,1993,641
+ Sudan,1993,352
+ Sweden,1993,846
+ Switzerland,1993,849
+ Syrian Arab Republic,1993,564
+ Tajikistan,1993,575
+ Tanzania,1993,367
+ Thailand,1993,600
+ Togo,1993,391
+ Tonga,1993,665
+ Trinidad and Tobago,1993,672
+ Tunisia,1993,587
+ Turkey,1993,601
+ Uganda,1993,320
+ Ukraine,1993,703
+ United Arab Emirates,1993,745
+ United Kingdom,1993,820
+ United States,1993,877
+ Uruguay,1993,705
+"Venezuela, RB",1993,662
+Vietnam,1993,514
+"Yemen, Rep.",1993,406
+Zambia,1993,419
+Zimbabwe,1993,463
+Afghanistan,1994,307
+Albania,1994,624
+ Algeria,1994,590
+ Argentina,1994,739
+ Armenia,1994,621
+ Australia,1994,879
+ Austria,1994,821
+ Bahrain,1994,772
+ Bangladesh,1994,426
+ Barbados,1994,742
+ Belgium,1994,852
+ Belize,1994,623
+ Benin,1994,386
+ Bolivia ,1994,581
+ Botswana,1994,570
+ Brazil,1994,642
+ Brunei Darussalam,1994,786
+ Bulgaria,1994,705
+ Burundi,1994,296
+ Cambodia,1994,385
+ Cameroon,1994,433
+ Canada,1994,859
+ Central African Republic,1994,317
+ Chile,1994,720
+ China,1994,534
+ Colombia,1994,631
+"Congo, Rep.",1994,489
+"Congo, Dem. Rep.",1994,349
+ Costa Rica,1994,692
+ Croatia,1994,688
+ Cuba,1994,656
+ Cyprus,1994,784
+Czech Republic,1994,752
+Cote d'Ivoire,1994,407
+ Denmark,1994,831
+ Dominican Republic,1994,624
+ Ecuador,1994,663
+"Egypt, Arab Rep.",1994,571
+ El Salvador,1994,571
+ Estonia,1994,720
+ Eswatini,1994,527
+ Fiji,1994,680
+ Finland,1994,815
+ France,1994,825
+ Gabon,1994,622
+" Gambia, The",1994,366
+ Germany,1994,837
+ Ghana,1994,480
+ Greece,1994,774
+ Guatemala,1994,504
+ Guinea,1994,301
+ Guyana,1994,582
+ Haiti,1994,415
+ Honduras,1994,534
+" Hong Kong, China (SAR)",1994,807
+ Hungary,1994,737
+ Iceland,1994,829
+ India,1994,453
+ Indonesia,1994,550
+"Iran, Islamic Rep.",1994,616
+ Iraq,1994,548
+ Ireland,1994,798
+ Israel,1994,827
+ Italy,1994,802
+ Jamaica,1994,671
+ Japan,1994,837
+ Jordan,1994,679
+ Kazakhstan,1994,667
+ Kenya,1994,469
+"Korea, Dem. People’s Rep.",1994,772
+ Kuwait,1994,718
+Kyrgyz Republic,1994,595
+Lao PDR,1994,430
+ Latvia,1994,675
+ Lesotho,1994,486
+ Libya,1994,750
+ Lithuania,1994,704
+ Luxembourg,1994,818
+ Malawi,1994,356
+ Malaysia,1994,675
+ Mali,1994,260
+ Malta,1994,768
+ Mauritania,1994,435
+ Mauritius,1994,647
+ Mexico,1994,675
+ Moldova,1994,640
+ Mongolia,1994,549
+ Morocco,1994,484
+ Mozambique,1994,241
+ Myanmar,1994,376
+ Namibia,1994,587
+ Nepal,1994,414
+ Netherlands,1994,871
+ New Zealand,1994,853
+ Nicaragua,1994,521
+ Niger,1994,235
+ Norway,1994,883
+ Pakistan,1994,421
+ Panama,1994,699
+ Papua New Guinea,1994,417
+ Paraguay,1994,620
+ Peru,1994,636
+ Philippines,1994,605
+ Poland,1994,739
+ Portugal,1994,760
+ Qatar,1994,773
+ Romania,1994,688
+ Russian Federation,1994,703
+Rwanda,1994,192
+ Samoa,1994,618
+ Sao Tome and Principe,1994,465
+ Saudi Arabia,1994,718
+ Senegal,1994,376
+ Serbia,1994,694
+ Sierra Leone,1994,284
+ Singapore,1994,764
+Slovak Republic,1994,745
+ Slovenia,1994,783
+ South Africa,1994,650
+ Spain,1994,798
+ Sri Lanka,1994,650
+ Sudan,1994,358
+ Sweden,1994,855
+ Switzerland,1994,852
+ Syrian Arab Republic,1994,572
+ Tajikistan,1994,556
+ Tanzania,1994,366
+ Thailand,1994,607
+ Togo,1994,397
+ Tonga,1994,672
+ Trinidad and Tobago,1994,676
+ Tunisia,1994,598
+ Turkey,1994,603
+ Uganda,1994,322
+ Ukraine,1994,690
+ United Arab Emirates,1994,755
+ United Kingdom,1994,833
+ United States,1994,880
+ Uruguay,1994,711
+"Venezuela, RB",1994,662
+Vietnam,1994,525
+"Yemen, Rep.",1994,408
+Zambia,1994,414
+Zimbabwe,1994,460
+Afghanistan,1995,331
+Albania,1995,637
+ Algeria,1995,595
+ Argentina,1995,741
+ Armenia,1995,627
+ Australia,1995,888
+ Austria,1995,825
+ Azerbaijan,1995,604
+ Bahrain,1995,778
+ Bangladesh,1995,434
+ Barbados,1995,747
+ Belarus,1995,660
+ Belgium,1995,859
+ Belize,1995,624
+ Benin,1995,391
+ Bolivia ,1995,589
+ Botswana,1995,576
+ Brazil,1995,651
+ Brunei Darussalam,1995,790
+ Bulgaria,1995,710
+ Burundi,1995,292
+ Cambodia,1995,391
+ Cameroon,1995,432
+ Canada,1995,862
+ Central African Republic,1995,319
+ Chile,1995,728
+ China,1995,545
+ Colombia,1995,637
+"Congo, Rep.",1995,471
+"Congo, Dem. Rep.",1995,347
+ Costa Rica,1995,697
+ Croatia,1995,703
+ Cuba,1995,659
+ Cyprus,1995,788
+Czech Republic,1995,761
+Cote d'Ivoire,1995,409
+ Denmark,1995,837
+ Djibouti,1995,351
+ Dominican Republic,1995,630
+ Ecuador,1995,666
+"Egypt, Arab Rep.",1995,578
+ El Salvador,1995,580
+ Estonia,1995,729
+ Eswatini,1995,523
+ Fiji,1995,686
+ Finland,1995,823
+ France,1995,832
+ Gabon,1995,624
+" Gambia, The",1995,370
+ Germany,1995,842
+ Ghana,1995,483
+ Greece,1995,776
+ Guatemala,1995,511
+ Guinea,1995,306
+ Guyana,1995,588
+ Haiti,1995,423
+ Honduras,1995,540
+" Hong Kong, China (SAR)",1995,811
+ Hungary,1995,746
+ Iceland,1995,831
+ India,1995,461
+ Indonesia,1995,560
+"Iran, Islamic Rep.",1995,627
+ Iraq,1995,539
+ Ireland,1995,805
+ Israel,1995,832
+ Italy,1995,808
+ Jamaica,1995,674
+ Japan,1995,842
+ Jordan,1995,693
+ Kazakhstan,1995,664
+ Kenya,1995,468
+"Korea, Dem. People’s Rep.",1995,783
+ Kuwait,1995,748
+Kyrgyz Republic,1995,589
+Lao PDR,1995,432
+ Latvia,1995,680
+ Lesotho,1995,483
+ Libya,1995,754
+ Lithuania,1995,710
+ Luxembourg,1995,821
+ Malawi,1995,389
+ Malaysia,1995,682
+ Maldives,1995,555
+ Mali,1995,265
+ Malta,1995,772
+ Mauritania,1995,442
+ Mauritius,1995,653
+ Mexico,1995,677
+ Moldova,1995,638
+ Mongolia,1995,554
+ Morocco,1995,487
+ Mozambique,1995,248
+ Myanmar,1995,380
+ Namibia,1995,582
+ Nepal,1995,419
+ Netherlands,1995,868
+ New Zealand,1995,859
+ Nicaragua,1995,531
+ Niger,1995,240
+ Norway,1995,881
+ Pakistan,1995,426
+ Panama,1995,704
+ Papua New Guinea,1995,425
+ Paraguay,1995,625
+ Peru,1995,646
+ Philippines,1995,609
+ Poland,1995,745
+ Portugal,1995,767
+ Qatar,1995,782
+ Romania,1995,694
+ Russian Federation,1995,702
+Rwanda,1995,231
+ Samoa,1995,624
+ Sao Tome and Principe,1995,469
+ Saudi Arabia,1995,722
+ Senegal,1995,378
+ Serbia,1995,699
+ Sierra Leone,1995,287
+ Singapore,1995,774
+Slovak Republic,1995,752
+ Slovenia,1995,790
+ South Africa,1995,653
+ Spain,1995,807
+ Sri Lanka,1995,654
+ Sudan,1995,366
+ Sweden,1995,862
+ Switzerland,1995,856
+ Syrian Arab Republic,1995,575
+ Tajikistan,1995,549
+ Tanzania,1995,367
+ Thailand,1995,614
+ Togo,1995,410
+ Tonga,1995,675
+ Trinidad and Tobago,1995,681
+ Tunisia,1995,605
+ Turkey,1995,611
+ Uganda,1995,328
+ Ukraine,1995,686
+ United Arab Emirates,1995,764
+ United Kingdom,1995,846
+ United States,1995,883
+ Uruguay,1995,712
+"Venezuela, RB",1995,666
+Vietnam,1995,537
+"Yemen, Rep.",1995,414
+Zambia,1995,415
+Zimbabwe,1995,453
+Afghanistan,1996,335
+Albania,1996,646
+ Algeria,1996,602
+ Argentina,1996,748
+ Armenia,1996,634
+ Australia,1996,890
+ Austria,1996,829
+ Azerbaijan,1996,605
+ Bahrain,1996,782
+ Bangladesh,1996,443
+ Barbados,1996,751
+ Belarus,1996,664
+ Belgium,1996,864
+ Belize,1996,624
+ Benin,1996,394
+ Bolivia ,1996,595
+ Botswana,1996,575
+ Brazil,1996,658
+ Brunei Darussalam,1996,793
+ Bulgaria,1996,718
+ Burundi,1996,289
+ Cambodia,1996,396
+ Cameroon,1996,431
+ Canada,1996,864
+ Central African Republic,1996,315
+ Chile,1996,735
+ China,1996,554
+ Colombia,1996,647
+"Congo, Rep.",1996,470
+"Congo, Dem. Rep.",1996,351
+ Costa Rica,1996,701
+ Croatia,1996,715
+ Cuba,1996,669
+ Cyprus,1996,791
+Czech Republic,1996,776
+Cote d'Ivoire,1996,412
+ Denmark,1996,844
+ Djibouti,1996,349
+ Dominican Republic,1996,636
+ Ecuador,1996,668
+"Egypt, Arab Rep.",1996,585
+ El Salvador,1996,588
+ Estonia,1996,740
+ Eswatini,1996,515
+ Fiji,1996,688
+ Finland,1996,830
+ France,1996,837
+ Gabon,1996,626
+" Gambia, The",1996,377
+ Germany,1996,846
+ Ghana,1996,484
+ Greece,1996,780
+ Guatemala,1996,518
+ Guinea,1996,310
+ Guyana,1996,598
+ Haiti,1996,428
+ Honduras,1996,545
+" Hong Kong, China (SAR)",1996,814
+ Hungary,1996,750
+ Iceland,1996,836
+ India,1996,468
+ Indonesia,1996,573
+"Iran, Islamic Rep.",1996,634
+ Iraq,1996,560
+ Ireland,1996,811
+ Israel,1996,836
+ Italy,1996,814
+ Jamaica,1996,677
+ Japan,1996,847
+ Jordan,1996,695
+ Kazakhstan,1996,666
+ Kenya,1996,467
+"Korea, Dem. People’s Rep.",1996,793
+ Kuwait,1996,772
+Kyrgyz Republic,1996,594
+Lao PDR,1996,445
+ Latvia,1996,687
+ Lesotho,1996,477
+ Libya,1996,760
+ Lithuania,1996,719
+ Luxembourg,1996,830
+ Malawi,1996,376
+ Malaysia,1996,694
+ Maldives,1996,569
+ Mali,1996,274
+ Malta,1996,776
+ Mauritania,1996,451
+ Mauritius,1996,656
+ Mexico,1996,683
+ Moldova,1996,634
+ Mongolia,1996,560
+ Morocco,1996,498
+ Mozambique,1996,263
+ Myanmar,1996,387
+ Namibia,1996,573
+ Nepal,1996,428
+ Netherlands,1996,872
+ New Zealand,1996,862
+ Nicaragua,1996,541
+ Niger,1996,244
+ Norway,1996,887
+ Pakistan,1996,431
+ Panama,1996,710
+ Papua New Guinea,1996,433
+ Paraguay,1996,632
+ Peru,1996,651
+ Philippines,1996,617
+ Poland,1996,753
+ Portugal,1996,774
+ Qatar,1996,794
+ Romania,1996,702
+ Russian Federation,1996,703
+Rwanda,1996,263
+ Samoa,1996,633
+ Sao Tome and Principe,1996,475
+ Saudi Arabia,1996,726
+ Senegal,1996,379
+ Serbia,1996,703
+ Sierra Leone,1996,282
+ Singapore,1996,783
+Slovak Republic,1996,756
+ Slovenia,1996,796
+ South Africa,1996,650
+ Spain,1996,813
+ Sri Lanka,1996,659
+ Sudan,1996,374
+ Sweden,1996,869
+ Switzerland,1996,863
+ Syrian Arab Republic,1996,582
+ Tajikistan,1996,535
+ Tanzania,1996,369
+ Thailand,1996,622
+ Togo,1996,418
+ Tonga,1996,675
+ Trinidad and Tobago,1996,687
+ Tunisia,1996,614
+ Turkey,1996,620
+ Uganda,1996,344
+ Ukraine,1996,684
+ United Arab Emirates,1996,765
+ United Kingdom,1996,851
+ United States,1996,884
+ Uruguay,1996,718
+"Venezuela, RB",1996,668
+Vietnam,1996,548
+"Yemen, Rep.",1996,421
+Zambia,1996,416
+Zimbabwe,1996,453
+Afghanistan,1997,339
+Albania,1997,645
+ Algeria,1997,611
+ Argentina,1997,757
+ Armenia,1997,645
+ Australia,1997,893
+ Austria,1997,832
+ Azerbaijan,1997,610
+ Bahrain,1997,783
+ Bangladesh,1997,452
+ Barbados,1997,757
+ Belarus,1997,670
+ Belgium,1997,869
+ Belize,1997,626
+ Benin,1997,399
+ Bolivia ,1997,598
+ Botswana,1997,577
+ Brazil,1997,665
+ Brunei Darussalam,1997,794
+ Bulgaria,1997,713
+ Burundi,1997,290
+ Cambodia,1997,401
+ Cameroon,1997,432
+ Canada,1997,863
+ Central African Republic,1997,318
+ Chile,1997,742
+ China,1997,563
+ Colombia,1997,655
+"Congo, Rep.",1997,474
+"Congo, Dem. Rep.",1997,349
+ Costa Rica,1997,707
+ Croatia,1997,727
+ Cuba,1997,673
+ Cyprus,1997,794
+Czech Republic,1997,782
+Cote d'Ivoire,1997,415
+ Denmark,1997,850
+ Djibouti,1997,354
+ Dominican Republic,1997,643
+ Ecuador,1997,672
+"Egypt, Arab Rep.",1997,592
+ El Salvador,1997,597
+ Estonia,1997,754
+ Eswatini,1997,503
+ Fiji,1997,687
+ Finland,1997,838
+ France,1997,841
+ Gabon,1997,628
+" Gambia, The",1997,382
+ Germany,1997,851
+ Ghana,1997,486
+ Greece,1997,785
+ Guatemala,1997,526
+ Guinea,1997,318
+ Guyana,1997,603
+ Haiti,1997,432
+ Honduras,1997,551
+" Hong Kong, China (SAR)",1997,819
+ Hungary,1997,751
+ Iceland,1997,846
+ India,1997,474
+ Indonesia,1997,587
+"Iran, Islamic Rep.",1997,640
+ Iraq,1997,569
+ Ireland,1997,819
+ Israel,1997,844
+ Italy,1997,821
+ Jamaica,1997,679
+ Japan,1997,850
+ Jordan,1997,699
+ Kazakhstan,1997,669
+ Kenya,1997,464
+"Korea, Dem. People’s Rep.",1997,805
+ Kuwait,1997,775
+Kyrgyz Republic,1997,601
+Lao PDR,1997,453
+ Latvia,1997,698
+ Lesotho,1997,472
+ Libya,1997,767
+ Lithuania,1997,731
+ Luxembourg,1997,836
+ Malawi,1997,395
+ Malaysia,1997,704
+ Maldives,1997,584
+ Mali,1997,285
+ Malta,1997,781
+ Mauritania,1997,450
+ Mauritius,1997,661
+ Mexico,1997,689
+ Moldova,1997,637
+ Mongolia,1997,567
+ Morocco,1997,502
+ Mozambique,1997,275
+ Myanmar,1997,392
+ Namibia,1997,564
+ Nepal,1997,435
+ Netherlands,1997,872
+ New Zealand,1997,868
+ Nicaragua,1997,550
+ Niger,1997,248
+ Norway,1997,893
+ Pakistan,1997,434
+ Panama,1997,716
+ Papua New Guinea,1997,435
+ Paraguay,1997,637
+ Peru,1997,657
+ Philippines,1997,621
+ Poland,1997,764
+ Portugal,1997,780
+ Qatar,1997,806
+ Romania,1997,703
+ Russian Federation,1997,705
+Rwanda,1997,291
+ Samoa,1997,635
+ Sao Tome and Principe,1997,479
+ Saudi Arabia,1997,731
+ Senegal,1997,380
+ Serbia,1997,709
+ Sierra Leone,1997,280
+ Singapore,1997,794
+Slovak Republic,1997,758
+ Slovenia,1997,804
+ South Africa,1997,646
+ Spain,1997,817
+ Sri Lanka,1997,666
+ Sudan,1997,384
+ Sweden,1997,880
+ Switzerland,1997,872
+ Syrian Arab Republic,1997,586
+ Tajikistan,1997,540
+ Tanzania,1997,370
+ Thailand,1997,628
+ Togo,1997,426
+ Tonga,1997,675
+ Trinidad and Tobago,1997,695
+ Tunisia,1997,621
+ Turkey,1997,629
+ Uganda,1997,358
+ Ukraine,1997,686
+ United Arab Emirates,1997,766
+ United Kingdom,1997,856
+ United States,1997,886
+ Uruguay,1997,729
+"Venezuela, RB",1997,670
+Vietnam,1997,547
+"Yemen, Rep.",1997,426
+Zambia,1997,416
+Zimbabwe,1997,447
+Afghanistan,1998,344
+Albania,1998,655
+ Algeria,1998,621
+ Argentina,1998,763
+ Armenia,1998,657
+ Australia,1998,896
+ Austria,1998,837
+ Azerbaijan,1998,619
+ Bahrain,1998,787
+ Bangladesh,1998,461
+ Barbados,1998,753
+ Belarus,1998,674
+ Belgium,1998,873
+ Belize,1998,628
+ Benin,1998,403
+ Bolivia ,1998,610
+ Botswana,1998,580
+ Brazil,1998,670
+ Brunei Darussalam,1998,794
+ Bulgaria,1998,718
+ Burundi,1998,294
+ Cambodia,1998,406
+ Cameroon,1998,434
+ Canada,1998,861
+ Central African Republic,1998,320
+ Chile,1998,743
+ China,1998,571
+ Colombia,1998,662
+"Congo, Rep.",1998,480
+"Congo, Dem. Rep.",1998,349
+ Costa Rica,1998,713
+ Croatia,1998,738
+ Cuba,1998,677
+ Cyprus,1998,803
+Czech Republic,1998,783
+Cote d'Ivoire,1998,414
+ Denmark,1998,856
+ Djibouti,1998,355
+ Dominican Republic,1998,648
+ Ecuador,1998,675
+"Egypt, Arab Rep.",1998,594
+ El Salvador,1998,606
+ Estonia,1998,766
+ Eswatini,1998,490
+ Fiji,1998,687
+ Finland,1998,846
+ France,1998,845
+ Gabon,1998,630
+" Gambia, The",1998,388
+ Germany,1998,860
+ Ghana,1998,487
+ Greece,1998,795
+ Guatemala,1998,534
+ Guinea,1998,326
+ Guyana,1998,607
+ Haiti,1998,435
+ Honduras,1998,556
+" Hong Kong, China (SAR)",1998,820
+ Hungary,1998,758
+ Iceland,1998,855
+ India,1998,481
+ Indonesia,1998,586
+"Iran, Islamic Rep.",1998,647
+ Iraq,1998,583
+ Ireland,1998,851
+ Israel,1998,852
+ Italy,1998,827
+ Jamaica,1998,678
+ Japan,1998,849
+ Jordan,1998,702
+ Kazakhstan,1998,672
+ Kenya,1998,463
+"Korea, Dem. People’s Rep.",1998,802
+ Kuwait,1998,780
+Kyrgyz Republic,1998,606
+Lao PDR,1998,460
+ Latvia,1998,711
+ Lesotho,1998,470
+ Libya,1998,770
+ Lithuania,1998,743
+ Luxembourg,1998,844
+ Malawi,1998,395
+ Malaysia,1998,708
+ Maldives,1998,597
+ Mali,1998,294
+ Malta,1998,789
+ Mauritania,1998,459
+ Mauritius,1998,667
+ Mexico,1998,695
+ Moldova,1998,637
+ Mongolia,1998,575
+ Morocco,1998,509
+ Mozambique,1998,287
+ Myanmar,1998,396
+ Namibia,1998,557
+ Nepal,1998,440
+ Netherlands,1998,874
+ New Zealand,1998,870
+ Nicaragua,1998,559
+ Niger,1998,255
+ Norway,1998,904
+ Pakistan,1998,438
+ Panama,1998,724
+ Papua New Guinea,1998,442
+ Paraguay,1998,641
+ Peru,1998,667
+ Philippines,1998,626
+ Poland,1998,774
+ Portugal,1998,787
+ Qatar,1998,810
+ Romania,1998,705
+ Russian Federation,1998,705
+Rwanda,1998,307
+ Samoa,1998,641
+ Sao Tome and Principe,1998,485
+ Saudi Arabia,1998,736
+ Senegal,1998,382
+ Serbia,1998,713
+ Sierra Leone,1998,284
+ Singapore,1998,799
+Slovak Republic,1998,764
+ Slovenia,1998,813
+ South Africa,1998,640
+ Spain,1998,821
+ Sri Lanka,1998,673
+ Sudan,1998,390
+ Sweden,1998,894
+ Switzerland,1998,882
+ Syrian Arab Republic,1998,588
+ Tajikistan,1998,544
+ Tanzania,1998,377
+ Thailand,1998,633
+ Togo,1998,425
+ Tonga,1998,678
+ Trinidad and Tobago,1998,694
+ Tunisia,1998,632
+ Turkey,1998,640
+ Uganda,1998,373
+ Ukraine,1998,688
+ United Arab Emirates,1998,769
+ United Kingdom,1998,862
+ United States,1998,889
+ Uruguay,1998,737
+"Venezuela, RB",1998,672
+Vietnam,1998,567
+"Yemen, Rep.",1998,431
+Zambia,1998,416
+Zimbabwe,1998,442
+Afghanistan,1999,348
+Albania,1999,665
+ Algeria,1999,629
+ Angola,1999,391
+ Argentina,1999,774
+ Armenia,1999,664
+ Australia,1999,900
+ Austria,1999,842
+ Azerbaijan,1999,629
+ Bahrain,1999,789
+ Bangladesh,1999,469
+ Barbados,1999,760
+ Belarus,1999,679
+ Belgium,1999,875
+ Belize,1999,633
+ Benin,1999,409
+ Bolivia ,1999,619
+ Botswana,1999,582
+ Brazil,1999,676
+ Brunei Darussalam,1999,800
+ Bulgaria,1999,716
+ Burundi,1999,295
+ Cambodia,1999,411
+ Cameroon,1999,436
+ Canada,1999,864
+ Central African Republic,1999,323
+ Chile,1999,750
+ China,1999,579
+ Colombia,1999,662
+"Congo, Rep.",1999,467
+"Congo, Dem. Rep.",1999,347
+ Costa Rica,1999,717
+ Croatia,1999,747
+ Cuba,1999,684
+ Cyprus,1999,802
+Czech Republic,1999,793
+Cote d'Ivoire,1999,419
+ Denmark,1999,868
+ Djibouti,1999,359
+ Dominican Republic,1999,654
+ Ecuador,1999,673
+"Egypt, Arab Rep.",1999,607
+ El Salvador,1999,608
+ Estonia,1999,773
+ Eswatini,1999,479
+ Fiji,1999,692
+ Finland,1999,854
+ France,1999,851
+ Gabon,1999,625
+" Gambia, The",1999,396
+ Germany,1999,868
+ Ghana,1999,489
+ Greece,1999,797
+ Guatemala,1999,542
+ Guinea,1999,333
+ Guyana,1999,611
+ Haiti,1999,439
+ Honduras,1999,560
+" Hong Kong, China (SAR)",1999,824
+ Hungary,1999,765
+ Iceland,1999,860
+ India,1999,489
+ Indonesia,1999,594
+"Iran, Islamic Rep.",1999,652
+ Iraq,1999,591
+ Ireland,1999,859
+ Israel,1999,859
+ Italy,1999,832
+ Jamaica,1999,680
+ Japan,1999,852
+ Jordan,1999,706
+ Kazakhstan,1999,676
+ Kenya,1999,462
+"Korea, Dem. People’s Rep.",1999,813
+ Kuwait,1999,781
+Kyrgyz Republic,1999,613
+Lao PDR,1999,467
+ Latvia,1999,723
+ Lesotho,1999,461
+ Liberia,1999,399
+ Libya,1999,775
+ Lithuania,1999,751
+ Luxembourg,1999,856
+ Malawi,1999,395
+ Malaysia,1999,713
+ Maldives,1999,611
+ Mali,1999,306
+ Malta,1999,793
+ Mauritania,1999,464
+ Mauritius,1999,672
+ Mexico,1999,699
+ Moldova,1999,640
+ Mongolia,1999,581
+ Morocco,1999,519
+ Mozambique,1999,301
+ Myanmar,1999,404
+ Namibia,1999,547
+ Nepal,1999,447
+ Netherlands,1999,877
+ New Zealand,1999,872
+ Nicaragua,1999,568
+ Niger,1999,259
+ Norway,1999,909
+ Pakistan,1999,443
+ Panama,1999,729
+ Papua New Guinea,1999,445
+ Paraguay,1999,644
+ Peru,1999,677
+ Philippines,1999,630
+ Poland,1999,783
+ Portugal,1999,786
+ Qatar,1999,814
+ Romania,1999,711
+ Russian Federation,1999,711
+Rwanda,1999,326
+ Samoa,1999,646
+ Sao Tome and Principe,1999,492
+ Saudi Arabia,1999,738
+ Senegal,1999,385
+ Serbia,1999,710
+ Sierra Leone,1999,287
+ Singapore,1999,810
+Slovak Republic,1999,763
+ Slovenia,1999,826
+ Solomon Islands,1999,489
+ South Africa,1999,635
+ Spain,1999,826
+ Sri Lanka,1999,681
+ Sudan,1999,396
+ Sweden,1999,899
+ Switzerland,1999,889
+ Syrian Arab Republic,1999,593
+ Tajikistan,1999,548
+ Tanzania,1999,383
+ Thailand,1999,643
+ Togo,1999,426
+ Tonga,1999,679
+ Trinidad and Tobago,1999,713
+ Tunisia,1999,643
+ Turkey,1999,648
+ Uganda,1999,390
+ Ukraine,1999,690
+ United Arab Emirates,1999,776
+ United Kingdom,1999,868
+ United States,1999,890
+ Uruguay,1999,739
+"Venezuela, RB",1999,674
+Vietnam,1999,574
+"Yemen, Rep.",1999,435
+Zambia,1999,420
+Zimbabwe,1999,437
+Afghanistan,2000,350
+Albania,2000,671
+ Algeria,2000,637
+ Andorra,2000,813
+ Angola,2000,400
+ Argentina,2000,781
+ Armenia,2000,669
+ Australia,2000,903
+ Austria,2000,847
+ Azerbaijan,2000,635
+" Bahamas, The",2000,797
+ Bahrain,2000,795
+ Bangladesh,2000,478
+ Barbados,2000,771
+ Belarus,2000,686
+ Belgium,2000,880
+ Belize,2000,640
+ Benin,2000,416
+ Bolivia ,2000,627
+ Bosnia and Herzegovina,2000,679
+ Botswana,2000,581
+ Brazil,2000,685
+ Brunei Darussalam,2000,802
+ Bulgaria,2000,720
+ Burkina Faso,2000,293
+ Burundi,2000,300
+ Cabo Verde,2000,569
+ Cambodia,2000,424
+ Cameroon,2000,440
+ Canada,2000,867
+ Central African Republic,2000,325
+ Chad,2000,293
+ Chile,2000,756
+ China,2000,588
+ Colombia,2000,666
+ Comoros,2000,465
+"Congo, Rep.",2000,461
+"Congo, Dem. Rep.",2000,349
+ Costa Rica,2000,721
+ Croatia,2000,757
+ Cuba,2000,691
+ Cyprus,2000,804
+Czech Republic,2000,804
+Cote d'Ivoire,2000,421
+ Denmark,2000,870
+ Djibouti,2000,360
+ Dominica,2000,703
+ Dominican Republic,2000,659
+ Ecuador,2000,675
+"Egypt, Arab Rep.",2000,613
+ El Salvador,2000,615
+ Equatorial Guinea,2000,525
+ Estonia,2000,787
+ Eswatini,2000,465
+ Ethiopia,2000,292
+ Fiji,2000,695
+ Finland,2000,864
+ France,2000,849
+ Gabon,2000,621
+" Gambia, The",2000,403
+ Georgia,2000,690
+ Germany,2000,876
+ Ghana,2000,494
+ Greece,2000,804
+ Guatemala,2000,549
+ Guinea,2000,340
+ Guyana,2000,616
+ Haiti,2000,442
+ Honduras,2000,566
+" Hong Kong, China (SAR)",2000,830
+ Hungary,2000,772
+ Iceland,2000,867
+ India,2000,495
+ Indonesia,2000,603
+"Iran, Islamic Rep.",2000,658
+ Iraq,2000,595
+ Ireland,2000,867
+ Israel,2000,861
+ Italy,2000,838
+ Jamaica,2000,678
+ Japan,2000,858
+ Jordan,2000,711
+ Kazakhstan,2000,685
+ Kenya,2000,461
+ Kiribati,2000,553
+"Korea, Dem. People’s Rep.",2000,823
+ Kuwait,2000,781
+Kyrgyz Republic,2000,620
+Lao PDR,2000,471
+ Latvia,2000,735
+ Lesotho,2000,459
+ Liberia,2000,435
+ Libya,2000,780
+ Liechtenstein,2000,862
+ Lithuania,2000,762
+ Luxembourg,2000,860
+ Madagascar,2000,462
+ Malawi,2000,388
+ Malaysia,2000,723
+ Maldives,2000,622
+ Mali,2000,312
+ Malta,2000,795
+ Mauritania,2000,464
+ Mauritius,2000,678
+ Mexico,2000,708
+"Micronesia, Fed. Sts.",2000,546
+ Moldova,2000,643
+ Mongolia,2000,588
+ Morocco,2000,529
+ Mozambique,2000,307
+ Myanmar,2000,414
+ Namibia,2000,544
+ Nepal,2000,453
+ Netherlands,2000,882
+ New Zealand,2000,876
+ Nicaragua,2000,577
+ Niger,2000,262
+ North Macedonia,2000,677
+ Norway,2000,915
+ Oman,2000,693
+ Pakistan,2000,447
+ Palau,2000,744
+ Panama,2000,735
+ Papua New Guinea,2000,450
+ Paraguay,2000,643
+ Peru,2000,679
+ Philippines,2000,632
+ Poland,2000,790
+ Portugal,2000,792
+ Qatar,2000,816
+ Romania,2000,716
+ Russian Federation,2000,722
+Rwanda,2000,341
+St. Lucia,2000,695
+St. Vincent and the Grenadines,2000,681
+ Samoa,2000,651
+ Sao Tome and Principe,2000,498
+ Saudi Arabia,2000,743
+ Senegal,2000,390
+ Serbia,2000,716
+ Seychelles,2000,714
+ Sierra Leone,2000,295
+ Singapore,2000,821
+Slovak Republic,2000,765
+ Slovenia,2000,832
+ Solomon Islands,2000,475
+ South Africa,2000,631
+ Spain,2000,832
+ Sri Lanka,2000,691
+ Sudan,2000,403
+ Sweden,2000,903
+ Switzerland,2000,898
+ Syrian Arab Republic,2000,600
+ Tajikistan,2000,555
+ Tanzania,2000,390
+ Thailand,2000,652
+ Timor-Leste,2000,484
+ Togo,2000,427
+ Tonga,2000,675
+ Trinidad and Tobago,2000,717
+ Tunisia,2000,651
+ Turkey,2000,660
+ Uganda,2000,404
+ Ukraine,2000,694
+ United Arab Emirates,2000,782
+ United Kingdom,2000,874
+ United States,2000,886
+ Uruguay,2000,743
+ Uzbekistan,2000,599
+"Venezuela, RB",2000,676
+Vietnam,2000,586
+"Yemen, Rep.",2000,444
+Zambia,2000,425
+Zimbabwe,2000,430
+Afghanistan,2001,353
+Albania,2001,678
+ Algeria,2001,647
+ Andorra,2001,815
+ Angola,2001,410
+ Argentina,2001,786
+ Armenia,2001,673
+ Australia,2001,905
+ Austria,2001,857
+ Azerbaijan,2001,643
+" Bahamas, The",2001,798
+ Bahrain,2001,796
+ Bangladesh,2001,486
+ Barbados,2001,770
+ Belarus,2001,692
+ Belgium,2001,883
+ Belize,2001,644
+ Benin,2001,428
+ Bolivia ,2001,630
+ Bosnia and Herzegovina,2001,684
+ Botswana,2001,582
+ Brazil,2001,691
+ Brunei Darussalam,2001,803
+ Bulgaria,2001,730
+ Burkina Faso,2001,298
+ Burundi,2001,301
+ Cabo Verde,2001,573
+ Cambodia,2001,438
+ Cameroon,2001,456
+ Canada,2001,871
+ Central African Republic,2001,327
+ Chad,2001,301
+ Chile,2001,767
+ China,2001,596
+ Colombia,2001,668
+ Comoros,2001,470
+"Congo, Rep.",2001,468
+"Congo, Dem. Rep.",2001,350
+ Costa Rica,2001,725
+ Croatia,2001,768
+ Cuba,2001,696
+ Cyprus,2001,810
+Czech Republic,2001,814
+Cote d'Ivoire,2001,424
+ Denmark,2001,883
+ Djibouti,2001,369
+ Dominica,2001,707
+ Dominican Republic,2001,663
+ Ecuador,2001,680
+"Egypt, Arab Rep.",2001,618
+ El Salvador,2001,620
+ Equatorial Guinea,2001,534
+ Estonia,2001,797
+ Eswatini,2001,454
+ Ethiopia,2001,306
+ Fiji,2001,698
+ Finland,2001,871
+ France,2001,851
+ Gabon,2001,624
+" Gambia, The",2001,411
+ Georgia,2001,694
+ Germany,2001,884
+ Ghana,2001,493
+ Greece,2001,814
+ Guatemala,2001,557
+ Guinea,2001,347
+ Guyana,2001,619
+ Haiti,2001,444
+ Honduras,2001,570
+" Hong Kong, China (SAR)",2001,838
+ Hungary,2001,781
+ Iceland,2001,872
+ India,2001,499
+ Indonesia,2001,609
+"Iran, Islamic Rep.",2001,665
+ Iraq,2001,601
+ Ireland,2001,873
+ Israel,2001,865
+ Italy,2001,845
+ Jamaica,2001,689
+ Japan,2001,861
+ Jordan,2001,717
+ Kazakhstan,2001,700
+ Kenya,2001,465
+ Kiribati,2001,569
+"Korea, Dem. People’s Rep.",2001,829
+ Kuwait,2001,778
+Kyrgyz Republic,2001,628
+Lao PDR,2001,477
+ Latvia,2001,753
+ Lesotho,2001,451
+ Liberia,2001,435
+ Libya,2001,785
+ Liechtenstein,2001,868
+ Lithuania,2001,774
+ Luxembourg,2001,865
+ Madagascar,2001,468
+ Malawi,2001,388
+ Malaysia,2001,721
+ Maldives,2001,626
+ Mali,2001,325
+ Malta,2001,801
+ Mauritania,2001,463
+ Mauritius,2001,687
+ Mexico,2001,712
+"Micronesia, Fed. Sts.",2001,553
+ Moldova,2001,651
+ Mongolia,2001,599
+ Morocco,2001,541
+ Mozambique,2001,320
+ Myanmar,2001,423
+ Namibia,2001,543
+ Nepal,2001,454
+ Netherlands,2001,886
+ New Zealand,2001,880
+ Nicaragua,2001,583
+ Niger,2001,268
+ North Macedonia,2001,681
+ Norway,2001,914
+ Oman,2001,705
+ Pakistan,2001,454
+ Palau,2001,747
+ Panama,2001,738
+ Papua New Guinea,2001,456
+ Paraguay,2001,652
+ Peru,2001,687
+ Philippines,2001,633
+ Poland,2001,796
+ Portugal,2001,798
+ Qatar,2001,817
+ Romania,2001,722
+ Russian Federation,2001,728
+Rwanda,2001,350
+St. Lucia,2001,691
+St. Vincent and the Grenadines,2001,686
+ Samoa,2001,659
+ Sao Tome and Principe,2001,506
+ Saudi Arabia,2001,746
+ Senegal,2001,405
+ Serbia,2001,723
+ Seychelles,2001,710
+ Sierra Leone,2001,309
+ Singapore,2001,825
+Slovak Republic,2001,766
+ Slovenia,2001,843
+ Solomon Islands,2001,480
+ South Africa,2001,611
+ Spain,2001,835
+ Sri Lanka,2001,697
+ Sudan,2001,409
+ Sweden,2001,905
+ Switzerland,2001,900
+ Syrian Arab Republic,2001,607
+ Tajikistan,2001,564
+ Tanzania,2001,397
+ Thailand,2001,660
+ Timor-Leste,2001,492
+ Togo,2001,430
+ Tonga,2001,679
+ Trinidad and Tobago,2001,725
+ Tunisia,2001,659
+ Turkey,2001,666
+ Uganda,2001,412
+ Ukraine,2001,708
+ United Arab Emirates,2001,787
+ United Kingdom,2001,878
+ United States,2001,889
+ Uruguay,2001,747
+ Uzbekistan,2001,607
+"Venezuela, RB",2001,684
+Vietnam,2001,594
+"Yemen, Rep.",2001,453
+Zambia,2001,432
+Zimbabwe,2001,431
+Afghanistan,2002,384
+Albania,2002,684
+ Algeria,2002,657
+ Andorra,2002,820
+ Angola,2002,426
+ Argentina,2002,781
+ Armenia,2002,682
+ Australia,2002,907
+ Austria,2002,847
+ Azerbaijan,2002,651
+" Bahamas, The",2002,800
+ Bahrain,2002,795
+ Bangladesh,2002,492
+ Barbados,2002,774
+ Belarus,2002,699
+ Belgium,2002,886
+ Belize,2002,651
+ Benin,2002,438
+ Bolivia ,2002,637
+ Bosnia and Herzegovina,2002,689
+ Botswana,2002,579
+ Brazil,2002,699
+ Brunei Darussalam,2002,807
+ Bulgaria,2002,736
+ Burkina Faso,2002,303
+ Burundi,2002,311
+ Cabo Verde,2002,583
+ Cambodia,2002,457
+ Cameroon,2002,458
+ Canada,2002,877
+ Central African Republic,2002,328
+ Chad,2002,307
+ Chile,2002,769
+ China,2002,606
+ Colombia,2002,671
+ Comoros,2002,475
+"Congo, Rep.",2002,471
+"Congo, Dem. Rep.",2002,358
+ Costa Rica,2002,728
+ Croatia,2002,774
+ Cuba,2002,698
+ Cyprus,2002,819
+Czech Republic,2002,821
+Cote d'Ivoire,2002,426
+ Denmark,2002,890
+ Djibouti,2002,375
+ Dominica,2002,707
+ Dominican Republic,2002,668
+ Ecuador,2002,684
+"Egypt, Arab Rep.",2002,622
+ El Salvador,2002,627
+ Equatorial Guinea,2002,546
+ Estonia,2002,805
+ Eswatini,2002,442
+ Ethiopia,2002,315
+ Fiji,2002,700
+ Finland,2002,874
+ France,2002,852
+ Gabon,2002,626
+" Gambia, The",2002,415
+ Georgia,2002,699
+ Germany,2002,890
+ Ghana,2002,499
+ Greece,2002,826
+ Grenada,2002,721
+ Guatemala,2002,563
+ Guinea,2002,356
+ Guyana,2002,622
+ Haiti,2002,446
+ Honduras,2002,575
+" Hong Kong, China (SAR)",2002,845
+ Hungary,2002,788
+ Iceland,2002,881
+ India,2002,506
+ Indonesia,2002,615
+"Iran, Islamic Rep.",2002,670
+ Iraq,2002,603
+ Ireland,2002,881
+ Israel,2002,873
+ Italy,2002,850
+ Jamaica,2002,692
+ Japan,2002,864
+ Jordan,2002,715
+ Kazakhstan,2002,714
+ Kenya,2002,465
+ Kiribati,2002,569
+"Korea, Dem. People’s Rep.",2002,837
+ Kuwait,2002,780
+Kyrgyz Republic,2002,630
+Lao PDR,2002,486
+ Latvia,2002,767
+ Lesotho,2002,446
+ Liberia,2002,437
+ Libya,2002,790
+ Liechtenstein,2002,873
+ Lithuania,2002,785
+ Luxembourg,2002,869
+ Madagascar,2002,464
+ Malawi,2002,357
+ Malaysia,2002,723
+ Maldives,2002,630
+ Mali,2002,334
+ Malta,2002,804
+ Mauritania,2002,467
+ Mauritius,2002,692
+ Mexico,2002,718
+"Micronesia, Fed. Sts.",2002,559
+ Moldova,2002,663
+ Mongolia,2002,608
+ Morocco,2002,551
+ Mozambique,2002,327
+ Myanmar,2002,432
+ Namibia,2002,541
+ Nepal,2002,464
+ Netherlands,2002,885
+ New Zealand,2002,888
+ Nicaragua,2002,589
+ Niger,2002,273
+ North Macedonia,2002,688
+ Norway,2002,917
+ Oman,2002,714
+ Pakistan,2002,462
+ Palau,2002,751
+ Panama,2002,744
+ Papua New Guinea,2002,462
+ Paraguay,2002,662
+ Peru,2002,688
+ Philippines,2002,638
+ Poland,2002,804
+ Portugal,2002,799
+ Qatar,2002,822
+ Romania,2002,731
+ Russian Federation,2002,734
+Rwanda,2002,366
+St. Lucia,2002,693
+St. Vincent and the Grenadines,2002,690
+ Samoa,2002,659
+ Sao Tome and Principe,2002,511
+ Saudi Arabia,2002,748
+ Senegal,2002,410
+ Serbia,2002,726
+ Seychelles,2002,711
+ Sierra Leone,2002,326
+ Singapore,2002,833
+Slovak Republic,2002,773
+ Slovenia,2002,850
+ Solomon Islands,2002,486
+ South Africa,2002,619
+ Spain,2002,837
+ Sri Lanka,2002,703
+ Sudan,2002,415
+ Sweden,2002,908
+ Switzerland,2002,899
+ Syrian Arab Republic,2002,607
+ Tajikistan,2002,573
+ Tanzania,2002,407
+ Thailand,2002,669
+ Timor-Leste,2002,503
+ Togo,2002,433
+ Tonga,2002,684
+ Trinidad and Tobago,2002,726
+ Tunisia,2002,664
+ Turkey,2002,677
+ Uganda,2002,427
+ Ukraine,2002,717
+ United Arab Emirates,2002,792
+ United Kingdom,2002,881
+ United States,2002,891
+ Uruguay,2002,749
+ Uzbekistan,2002,614
+"Venezuela, RB",2002,692
+Vietnam,2002,602
+"Yemen, Rep.",2002,461
+Zambia,2002,441
+Zimbabwe,2002,423
+Afghanistan,2003,393
+Albania,2003,691
+ Algeria,2003,667
+ Andorra,2003,827
+ Angola,2003,435
+ Argentina,2003,786
+ Armenia,2003,691
+ Australia,2003,909
+ Austria,2003,851
+ Azerbaijan,2003,659
+" Bahamas, The",2003,799
+ Bahrain,2003,797
+ Bangladesh,2003,499
+ Barbados,2003,778
+ Belarus,2003,707
+ Belgium,2003,889
+ Belize,2003,659
+ Benin,2003,445
+ Bolivia ,2003,640
+ Bosnia and Herzegovina,2003,695
+ Botswana,2003,586
+ Brazil,2003,695
+ Brunei Darussalam,2003,813
+ Bulgaria,2003,745
+ Burkina Faso,2003,310
+ Burundi,2003,319
+ Cabo Verde,2003,588
+ Cambodia,2003,470
+ Cameroon,2003,464
+ Canada,2003,882
+ Central African Republic,2003,328
+ Chad,2003,305
+ Chile,2003,776
+ China,2003,618
+ Colombia,2003,670
+ Comoros,2003,481
+"Congo, Rep.",2003,471
+"Congo, Dem. Rep.",2003,366
+ Costa Rica,2003,731
+ Croatia,2003,780
+ Cuba,2003,708
+ Cyprus,2003,828
+Czech Republic,2003,830
+Cote d'Ivoire,2003,429
+ Denmark,2003,901
+ Djibouti,2003,385
+ Dominica,2003,712
+ Dominican Republic,2003,669
+ Ecuador,2003,687
+"Egypt, Arab Rep.",2003,625
+ El Salvador,2003,633
+ Equatorial Guinea,2003,547
+ Estonia,2003,813
+ Eswatini,2003,437
+ Ethiopia,2003,319
+ Fiji,2003,702
+ Finland,2003,877
+ France,2003,855
+ Gabon,2003,627
+" Gambia, The",2003,422
+ Georgia,2003,708
+ Germany,2003,896
+ Ghana,2003,500
+ Greece,2003,833
+ Grenada,2003,729
+ Guatemala,2003,567
+ Guinea,2003,347
+ Guyana,2003,618
+ Haiti,2003,449
+ Honduras,2003,580
+" Hong Kong, China (SAR)",2003,854
+ Hungary,2003,797
+ Iceland,2003,887
+ India,2003,518
+ Indonesia,2003,622
+"Iran, Islamic Rep.",2003,677
+ Iraq,2003,589
+ Ireland,2003,889
+ Israel,2003,874
+ Italy,2003,855
+ Jamaica,2003,687
+ Japan,2003,867
+ Jordan,2003,720
+ Kazakhstan,2003,726
+ Kenya,2003,478
+ Kiribati,2003,574
+"Korea, Dem. People’s Rep.",2003,844
+ Kuwait,2003,788
+Kyrgyz Republic,2003,637
+Lao PDR,2003,494
+ Latvia,2003,781
+ Lesotho,2003,444
+ Liberia,2003,417
+ Libya,2003,797
+ Liechtenstein,2003,878
+ Lithuania,2003,797
+ Luxembourg,2003,873
+ Madagascar,2003,473
+ Malawi,2003,361
+ Malaysia,2003,730
+ Maldives,2003,644
+ Mali,2003,347
+ Malta,2003,810
+ Mauritania,2003,472
+ Mauritius,2003,701
+ Mexico,2003,722
+"Micronesia, Fed. Sts.",2003,565
+ Moldova,2003,673
+ Mongolia,2003,621
+ Morocco,2003,562
+ Mozambique,2003,340
+ Myanmar,2003,442
+ Namibia,2003,543
+ Nepal,2003,470
+ Netherlands,2003,890
+ New Zealand,2003,891
+ Nicaragua,2003,592
+ Niger,2003,276
+ Nigeria,2003,450
+ North Macedonia,2003,694
+ Norway,2003,923
+ Oman,2003,724
+ Pakistan,2003,471
+ Palau,2003,755
+ Panama,2003,746
+ Papua New Guinea,2003,470
+ Paraguay,2003,660
+ Peru,2003,687
+ Philippines,2003,642
+ Poland,2003,809
+ Portugal,2003,805
+ Qatar,2003,830
+ Romania,2003,739
+ Russian Federation,2003,742
+Rwanda,2003,379
+St. Lucia,2003,695
+St. Vincent and the Grenadines,2003,698
+ Samoa,2003,665
+ Sao Tome and Principe,2003,519
+ Saudi Arabia,2003,755
+ Senegal,2003,418
+ Serbia,2003,732
+ Seychelles,2003,714
+ Sierra Leone,2003,336
+ Singapore,2003,842
+Slovak Republic,2003,778
+ Slovenia,2003,857
+ Solomon Islands,2003,492
+ South Africa,2003,619
+ Spain,2003,840
+ Sri Lanka,2003,712
+ Sudan,2003,422
+ Sweden,2003,913
+ Switzerland,2003,905
+ Syrian Arab Republic,2003,620
+ Tajikistan,2003,588
+ Tanzania,2003,416
+ Thailand,2003,677
+ Timor-Leste,2003,504
+ Togo,2003,438
+ Tonga,2003,693
+ Trinidad and Tobago,2003,740
+ Tunisia,2003,671
+ Turkey,2003,684
+ Uganda,2003,436
+ Ukraine,2003,725
+ United Arab Emirates,2003,798
+ United Kingdom,2003,885
+ United States,2003,894
+ Uruguay,2003,752
+ Uzbekistan,2003,619
+"Venezuela, RB",2003,692
+Vietnam,2003,611
+"Yemen, Rep.",2003,470
+Zambia,2003,451
+Zimbabwe,2003,414
+Afghanistan,2004,409
+Albania,2004,696
+ Algeria,2004,677
+ Andorra,2004,833
+ Angola,2004,446
+ Argentina,2004,787
+ Armenia,2004,700
+ Australia,2004,911
+ Austria,2004,858
+ Azerbaijan,2004,667
+" Bahamas, The",2004,800
+ Bahrain,2004,796
+ Bangladesh,2004,506
+ Barbados,2004,782
+ Belarus,2004,717
+ Belgium,2004,893
+ Belize,2004,665
+ Benin,2004,453
+ Bolivia ,2004,641
+ Bosnia and Herzegovina,2004,701
+ Botswana,2004,592
+ Brazil,2004,698
+ Brunei Darussalam,2004,818
+ Bulgaria,2004,752
+ Burkina Faso,2004,320
+ Burundi,2004,330
+ Cabo Verde,2004,590
+ Cambodia,2004,482
+ Cameroon,2004,469
+ Canada,2004,888
+ Central African Republic,2004,331
+ Chad,2004,324
+ Chile,2004,785
+ China,2004,628
+ Colombia,2004,684
+ Comoros,2004,483
+"Congo, Rep.",2004,473
+"Congo, Dem. Rep.",2004,374
+ Costa Rica,2004,735
+ Croatia,2004,786
+ Cuba,2004,722
+ Cyprus,2004,831
+Czech Republic,2004,834
+Cote d'Ivoire,2004,433
+ Denmark,2004,905
+ Djibouti,2004,393
+ Dominica,2004,714
+ Dominican Republic,2004,672
+ Ecuador,2004,693
+"Egypt, Arab Rep.",2004,631
+ El Salvador,2004,639
+ Equatorial Guinea,2004,554
+ Estonia,2004,821
+ Eswatini,2004,445
+ Ethiopia,2004,334
+ Fiji,2004,709
+ Finland,2004,904
+ France,2004,858
+ Gabon,2004,626
+" Gambia, The",2004,431
+ Georgia,2004,715
+ Germany,2004,907
+ Ghana,2004,509
+ Greece,2004,843
+ Grenada,2004,731
+ Guatemala,2004,571
+ Guinea,2004,372
+ Guyana,2004,625
+ Haiti,2004,450
+ Honduras,2004,586
+" Hong Kong, China (SAR)",2004,865
+ Hungary,2004,799
+ Iceland,2004,891
+ India,2004,527
+ Indonesia,2004,628
+"Iran, Islamic Rep.",2004,678
+ Iraq,2004,615
+ Ireland,2004,898
+ Israel,2004,876
+ Italy,2004,860
+ Jamaica,2004,704
+ Japan,2004,871
+ Jordan,2004,726
+ Kazakhstan,2004,737
+ Kenya,2004,490
+ Kiribati,2004,572
+"Korea, Dem. People’s Rep.",2004,853
+ Kuwait,2004,789
+Kyrgyz Republic,2004,640
+Lao PDR,2004,503
+ Latvia,2004,795
+ Lesotho,2004,440
+ Liberia,2004,427
+ Libya,2004,798
+ Liechtenstein,2004,883
+ Lithuania,2004,805
+ Luxembourg,2004,876
+ Madagascar,2004,480
+ Malawi,2004,363
+ Malaysia,2004,733
+ Maldives,2004,649
+ Mali,2004,356
+ Malta,2004,819
+ Mauritania,2004,482
+ Mauritius,2004,708
+ Mexico,2004,731
+"Micronesia, Fed. Sts.",2004,570
+ Moldova,2004,684
+ Mongolia,2004,636
+ Morocco,2004,572
+ Mozambique,2004,349
+ Myanmar,2004,452
+ Namibia,2004,545
+ Nepal,2004,476
+ Netherlands,2004,892
+ New Zealand,2004,894
+ Nicaragua,2004,597
+ Niger,2004,285
+ Nigeria,2004,460
+ North Macedonia,2004,702
+ Norway,2004,932
+ Oman,2004,731
+ Pakistan,2004,473
+ Palau,2004,758
+ Panama,2004,751
+ Papua New Guinea,2004,473
+ Paraguay,2004,667
+ Peru,2004,694
+ Philippines,2004,652
+ Poland,2004,807
+ Portugal,2004,809
+ Qatar,2004,832
+ Romania,2004,753
+ Russian Federation,2004,748
+Rwanda,2004,396
+St. Lucia,2004,695
+St. Vincent and the Grenadines,2004,701
+ Samoa,2004,673
+ Sao Tome and Principe,2004,526
+ Saudi Arabia,2004,764
+ Senegal,2004,426
+ Serbia,2004,740
+ Seychelles,2004,716
+ Sierra Leone,2004,345
+ Singapore,2004,849
+Slovak Republic,2004,786
+ Slovenia,2004,864
+ Solomon Islands,2004,500
+ South Africa,2004,619
+ Spain,2004,844
+ Sri Lanka,2004,719
+ Sudan,2004,430
+ Suriname,2004,682
+ Sweden,2004,901
+ Switzerland,2004,909
+ Syrian Arab Republic,2004,636
+ Tajikistan,2004,600
+ Tanzania,2004,426
+ Thailand,2004,686
+ Timor-Leste,2004,518
+ Togo,2004,439
+ Tonga,2004,682
+ Trinidad and Tobago,2004,750
+ Tunisia,2004,681
+ Turkey,2004,690
+ Uganda,2004,436
+ Ukraine,2004,732
+ United Arab Emirates,2004,803
+ United Kingdom,2004,892
+ United States,2004,897
+ Uruguay,2004,755
+ Uzbekistan,2004,626
+"Venezuela, RB",2004,704
+Vietnam,2004,620
+"Yemen, Rep.",2004,477
+Zambia,2004,460
+Zimbabwe,2004,411
+Afghanistan,2005,418
+Albania,2005,706
+ Algeria,2005,685
+ Andorra,2005,827
+ Angola,2005,460
+Bermuda,2005,764
+ Argentina,2005,788
+ Armenia,2005,712
+ Australia,2005,906
+ Austria,2005,863
+ Azerbaijan,2005,674
+" Bahamas, The",2005,801
+ Bahrain,2005,795
+ Bangladesh,2005,514
+ Barbados,2005,787
+ Belarus,2005,727
+ Belgium,2005,897
+ Belize,2005,662
+ Benin,2005,459
+ Bhutan,2005,520
+ Bolivia ,2005,643
+ Bosnia and Herzegovina,2005,706
+ Botswana,2005,601
+ Brazil,2005,700
+ Brunei Darussalam,2005,822
+ Bulgaria,2005,758
+ Burkina Faso,2005,332
+ Burundi,2005,337
+ Cabo Verde,2005,596
+ Cambodia,2005,494
+ Cameroon,2005,470
+ Canada,2005,894
+ Central African Republic,2005,336
+ Chad,2005,327
+ Chile,2005,791
+ China,2005,640
+ Colombia,2005,689
+ Comoros,2005,489
+"Congo, Rep.",2005,469
+"Congo, Dem. Rep.",2005,381
+ Costa Rica,2005,738
+ Croatia,2005,792
+ Cuba,2005,734
+ Cyprus,2005,836
+Czech Republic,2005,843
+Cote d'Ivoire,2005,438
+ Denmark,2005,910
+ Djibouti,2005,402
+ Dominica,2005,715
+ Dominican Republic,2005,681
+ Ecuador,2005,698
+"Egypt, Arab Rep.",2005,637
+ El Salvador,2005,646
+ Equatorial Guinea,2005,565
+ Eritrea,2005,427
+ Estonia,2005,832
+ Eswatini,2005,456
+ Ethiopia,2005,355
+ Fiji,2005,705
+ Finland,2005,908
+ France,2005,867
+ Gabon,2005,632
+" Gambia, The",2005,435
+ Georgia,2005,725
+ Germany,2005,908
+ Ghana,2005,520
+ Greece,2005,853
+ Grenada,2005,744
+ Guatemala,2005,574
+ Guinea,2005,383
+ Guinea-Bissau,2005,403
+ Guyana,2005,629
+ Haiti,2005,453
+ Honduras,2005,593
+" Hong Kong, China (SAR)",2005,874
+ Hungary,2005,805
+ Iceland,2005,896
+ India,2005,536
+ Indonesia,2005,632
+"Iran, Islamic Rep.",2005,683
+ Iraq,2005,617
+ Ireland,2005,904
+ Israel,2005,880
+ Italy,2005,865
+ Jamaica,2005,706
+ Japan,2005,875
+ Jordan,2005,738
+ Kazakhstan,2005,747
+ Kenya,2005,500
+ Kiribati,2005,589
+"Korea, Dem. People’s Rep.",2005,860
+ Kuwait,2005,783
+Kyrgyz Republic,2005,642
+Lao PDR,2005,512
+ Latvia,2005,809
+ Lebanon,2005,740
+ Lesotho,2005,436
+ Liberia,2005,432
+ Libya,2005,800
+ Liechtenstein,2005,886
+ Lithuania,2005,817
+ Luxembourg,2005,880
+ Madagascar,2005,486
+ Malawi,2005,367
+ Malaysia,2005,730
+ Maldives,2005,645
+ Mali,2005,367
+ Malta,2005,834
+ Mauritania,2005,486
+ Mauritius,2005,717
+ Mexico,2005,737
+"Micronesia, Fed. Sts.",2005,577
+ Moldova,2005,692
+ Mongolia,2005,649
+ Morocco,2005,580
+ Mozambique,2005,360
+ Myanmar,2005,461
+ Namibia,2005,545
+ Nepal,2005,482
+ Netherlands,2005,897
+ New Zealand,2005,896
+ Nicaragua,2005,601
+ Niger,2005,294
+ Nigeria,2005,465
+ North Macedonia,2005,710
+ Norway,2005,931
+ Oman,2005,736
+ Pakistan,2005,486
+ Palau,2005,770
+ Panama,2005,754
+ Papua New Guinea,2005,480
+ Paraguay,2005,670
+ Peru,2005,699
+ Philippines,2005,654
+ Poland,2005,813
+ Portugal,2005,813
+ Qatar,2005,838
+ Romania,2005,762
+ Russian Federation,2005,753
+Rwanda,2005,413
+St. Kitts and Nevis,2005,711
+St. Lucia,2005,698
+St. Vincent and the Grenadines,2005,705
+ Samoa,2005,677
+ Sao Tome and Principe,2005,533
+ Saudi Arabia,2005,770
+ Senegal,2005,434
+ Serbia,2005,749
+ Seychelles,2005,732
+ Sierra Leone,2005,354
+ Singapore,2005,874
+Slovak Republic,2005,796
+ Slovenia,2005,869
+ Solomon Islands,2005,509
+ South Africa,2005,622
+ Spain,2005,851
+ Sri Lanka,2005,725
+ Sudan,2005,437
+ Suriname,2005,686
+ Sweden,2005,904
+ Switzerland,2005,914
+ Syrian Arab Republic,2005,652
+ Tajikistan,2005,607
+ Tanzania,2005,437
+ Thailand,2005,696
+ Timor-Leste,2005,537
+ Togo,2005,438
+ Tonga,2005,682
+ Trinidad and Tobago,2005,748
+ Tunisia,2005,688
+ Turkey,2005,696
+ Uganda,2005,444
+ Ukraine,2005,738
+ United Arab Emirates,2005,809
+ United Kingdom,2005,897
+ United States,2005,900
+ Uruguay,2005,758
+ Uzbekistan,2005,633
+ Vanuatu,2005,574
+"Venezuela, RB",2005,718
+Vietnam,2005,624
+"Yemen, Rep.",2005,483
+Zambia,2005,471
+Zimbabwe,2005,411
+Afghanistan,2006,429
+Albania,2006,713
+ Algeria,2006,690
+ Andorra,2006,837
+ Angola,2006,473
+Bermuda,2006,771
+ Argentina,2006,812
+ Armenia,2006,726
+ Australia,2006,909
+ Austria,2006,870
+ Azerbaijan,2006,701
+" Bahamas, The",2006,804
+ Bahrain,2006,797
+ Bangladesh,2006,521
+ Barbados,2006,791
+ Belarus,2006,744
+ Belgium,2006,904
+ Belize,2006,672
+ Benin,2006,467
+ Bhutan,2006,526
+ Bolivia ,2006,649
+ Bosnia and Herzegovina,2006,712
+ Botswana,2006,615
+ Brazil,2006,702
+ Brunei Darussalam,2006,825
+ Bulgaria,2006,765
+ Burkina Faso,2006,341
+ Burundi,2006,359
+ Cabo Verde,2006,611
+ Cambodia,2006,506
+ Cameroon,2006,471
+ Canada,2006,898
+ Central African Republic,2006,342
+ Chad,2006,330
+ Chile,2006,791
+ China,2006,653
+ Colombia,2006,698
+ Comoros,2006,495
+"Congo, Rep.",2006,470
+"Congo, Dem. Rep.",2006,389
+ Costa Rica,2006,745
+ Croatia,2006,798
+ Cuba,2006,756
+ Cyprus,2006,842
+Czech Republic,2006,852
+Cote d'Ivoire,2006,443
+ Denmark,2006,912
+ Djibouti,2006,413
+ Dominica,2006,721
+ Dominican Republic,2006,688
+ Ecuador,2006,701
+"Egypt, Arab Rep.",2006,645
+ El Salvador,2006,653
+ Equatorial Guinea,2006,576
+ Eritrea,2006,428
+ Estonia,2006,839
+ Eswatini,2006,469
+ Ethiopia,2006,371
+ Fiji,2006,708
+ Finland,2006,912
+ France,2006,871
+ Gabon,2006,632
+" Gambia, The",2006,440
+ Georgia,2006,731
+ Germany,2006,918
+ Ghana,2006,529
+ Greece,2006,859
+ Grenada,2006,745
+ Guatemala,2006,583
+ Guinea,2006,392
+ Guinea-Bissau,2006,411
+ Guyana,2006,630
+ Haiti,2006,458
+ Honduras,2006,599
+" Hong Kong, China (SAR)",2006,886
+ Hungary,2006,815
+ Iceland,2006,899
+ India,2006,546
+ Indonesia,2006,642
+"Iran, Islamic Rep.",2006,719
+ Iraq,2006,620
+ Ireland,2006,906
+ Israel,2006,880
+ Italy,2006,870
+ Jamaica,2006,711
+ Japan,2006,879
+ Jordan,2006,741
+ Kazakhstan,2006,754
+ Kenya,2006,515
+ Kiribati,2006,586
+"Korea, Dem. People’s Rep.",2006,868
+ Kuwait,2006,788
+Kyrgyz Republic,2006,647
+Lao PDR,2006,514
+ Latvia,2006,816
+ Lebanon,2006,739
+ Lesotho,2006,436
+ Liberia,2006,438
+ Libya,2006,800
+ Liechtenstein,2006,890
+ Lithuania,2006,826
+ Luxembourg,2006,884
+ Madagascar,2006,490
+ Malawi,2006,377
+ Malaysia,2006,737
+ Maldives,2006,659
+ Mali,2006,376
+ Malta,2006,832
+ Mauritania,2006,496
+ Mauritius,2006,724
+ Mexico,2006,745
+"Micronesia, Fed. Sts.",2006,583
+ Moldova,2006,699
+ Mongolia,2006,659
+ Montenegro,2006,773
+ Morocco,2006,586
+ Mozambique,2006,366
+ Myanmar,2006,471
+ Namibia,2006,551
+ Nepal,2006,493
+ Netherlands,2006,903
+ New Zealand,2006,898
+ Nicaragua,2006,605
+ Niger,2006,300
+ Nigeria,2006,473
+ North Macedonia,2006,716
+ Norway,2006,934
+ Oman,2006,740
+ Pakistan,2006,492
+ Palau,2006,774
+ Panama,2006,759
+ Papua New Guinea,2006,485
+ Paraguay,2006,670
+ Peru,2006,697
+ Philippines,2006,656
+ Poland,2006,819
+ Portugal,2006,811
+ Qatar,2006,835
+ Romania,2006,774
+ Russian Federation,2006,760
+Rwanda,2006,434
+St. Kitts and Nevis,2006,718
+St. Lucia,2006,712
+St. Vincent and the Grenadines,2006,711
+ Samoa,2006,680
+ Sao Tome and Principe,2006,543
+ Saudi Arabia,2006,777
+ Senegal,2006,438
+ Serbia,2006,754
+ Seychelles,2006,722
+ Sierra Leone,2006,362
+ Singapore,2006,881
+Slovak Republic,2006,805
+ Slovenia,2006,876
+ Solomon Islands,2006,519
+ South Africa,2006,626
+ Spain,2006,856
+ Sri Lanka,2006,732
+ Sudan,2006,443
+ Suriname,2006,691
+ Sweden,2006,908
+ Switzerland,2006,920
+ Syrian Arab Republic,2006,662
+ Tajikistan,2006,617
+ Tanzania,2006,447
+ Thailand,2006,697
+ Timor-Leste,2006,563
+ Togo,2006,444
+ Tonga,2006,683
+ Trinidad and Tobago,2006,763
+ Tunisia,2006,694
+ Turkey,2006,704
+ Uganda,2006,456
+ Ukraine,2006,744
+ United Arab Emirates,2006,814
+ United Kingdom,2006,896
+ United States,2006,903
+ Uruguay,2006,763
+ Uzbekistan,2006,637
+ Vanuatu,2006,580
+"Venezuela, RB",2006,731
+Vietnam,2006,632
+"Yemen, Rep.",2006,488
+Zambia,2006,482
+Zimbabwe,2006,414
+Afghanistan,2007,447
+Albania,2007,722
+ Algeria,2007,700
+ Andorra,2007,837
+ Angola,2007,489
+Bermuda,2007,776
+ Argentina,2007,817
+ Armenia,2007,741
+ Australia,2007,912
+ Austria,2007,890
+ Azerbaijan,2007,706
+" Bahamas, The",2007,804
+ Bahrain,2007,799
+ Bangladesh,2007,528
+ Barbados,2007,796
+ Belarus,2007,760
+ Belgium,2007,907
+ Belize,2007,674
+ Benin,2007,475
+ Bhutan,2007,542
+ Bolivia ,2007,649
+ Bosnia and Herzegovina,2007,719
+ Botswana,2007,628
+ Brazil,2007,706
+ Brunei Darussalam,2007,825
+ Bulgaria,2007,773
+ Burkina Faso,2007,352
+ Burundi,2007,371
+ Cabo Verde,2007,617
+ Cambodia,2007,520
+ Cameroon,2007,482
+ Canada,2007,896
+ Central African Republic,2007,347
+ Chad,2007,340
+ Chile,2007,804
+ China,2007,667
+ Colombia,2007,711
+ Comoros,2007,501
+"Congo, Rep.",2007,486
+"Congo, Dem. Rep.",2007,400
+ Costa Rica,2007,753
+ Croatia,2007,808
+ Cuba,2007,772
+ Cyprus,2007,849
+Czech Republic,2007,858
+Cote d'Ivoire,2007,449
+ Denmark,2007,911
+ Djibouti,2007,423
+ Dominica,2007,725
+ Dominican Republic,2007,694
+ Ecuador,2007,710
+"Egypt, Arab Rep.",2007,653
+ El Salvador,2007,652
+ Equatorial Guinea,2007,582
+ Eritrea,2007,430
+ Estonia,2007,846
+ Eswatini,2007,478
+ Ethiopia,2007,386
+ Fiji,2007,711
+ Finland,2007,915
+ France,2007,874
+ Gabon,2007,637
+" Gambia, The",2007,446
+ Georgia,2007,743
+ Germany,2007,921
+ Ghana,2007,541
+ Greece,2007,857
+ Grenada,2007,750
+ Guatemala,2007,592
+ Guinea,2007,400
+ Guinea-Bissau,2007,417
+ Guyana,2007,634
+ Haiti,2007,463
+ Honduras,2007,607
+" Hong Kong, China (SAR)",2007,890
+ Hungary,2007,818
+ Iceland,2007,905
+ India,2007,555
+ Indonesia,2007,643
+"Iran, Islamic Rep.",2007,723
+ Iraq,2007,623
+ Ireland,2007,909
+ Israel,2007,889
+ Italy,2007,874
+ Jamaica,2007,719
+ Japan,2007,882
+ Jordan,2007,744
+ Kazakhstan,2007,758
+ Kenya,2007,523
+ Kiribati,2007,587
+"Korea, Dem. People’s Rep.",2007,875
+ Kuwait,2007,788
+Kyrgyz Republic,2007,654
+Lao PDR,2007,527
+ Latvia,2007,825
+ Lebanon,2007,751
+ Lesotho,2007,441
+ Liberia,2007,445
+ Libya,2007,800
+ Liechtenstein,2007,893
+ Lithuania,2007,833
+ Luxembourg,2007,888
+ Madagascar,2007,498
+ Malawi,2007,388
+ Malaysia,2007,750
+ Maldives,2007,664
+ Mali,2007,371
+ Malta,2007,837
+ Mauritania,2007,495
+ Mauritius,2007,731
+ Mexico,2007,746
+"Micronesia, Fed. Sts.",2007,589
+ Moldova,2007,704
+ Mongolia,2007,671
+ Montenegro,2007,784
+ Morocco,2007,594
+ Mozambique,2007,378
+ Myanmar,2007,482
+ Namibia,2007,559
+ Nepal,2007,498
+ Netherlands,2007,910
+ New Zealand,2007,901
+ Nicaragua,2007,611
+ Niger,2007,306
+ Nigeria,2007,478
+ North Macedonia,2007,721
+ Norway,2007,936
+ Oman,2007,752
+ Pakistan,2007,496
+ Palau,2007,780
+ Panama,2007,767
+ Papua New Guinea,2007,498
+ Paraguay,2007,675
+ Peru,2007,704
+ Philippines,2007,662
+ Poland,2007,824
+ Portugal,2007,814
+ Qatar,2007,838
+ Romania,2007,788
+ Russian Federation,2007,769
+Rwanda,2007,450
+St. Kitts and Nevis,2007,724
+St. Lucia,2007,714
+St. Vincent and the Grenadines,2007,715
+ Samoa,2007,686
+ Sao Tome and Principe,2007,548
+ Saudi Arabia,2007,783
+ Senegal,2007,447
+ Serbia,2007,758
+ Seychelles,2007,745
+ Sierra Leone,2007,375
+ Singapore,2007,882
+Slovak Republic,2007,816
+ Slovenia,2007,880
+ Solomon Islands,2007,526
+ South Africa,2007,632
+ Spain,2007,860
+ Sri Lanka,2007,738
+ Sudan,2007,450
+ Suriname,2007,697
+ Sweden,2007,910
+ Switzerland,2007,923
+ Syrian Arab Republic,2007,673
+ Tajikistan,2007,621
+ Tanzania,2007,456
+ Thailand,2007,714
+ Timor-Leste,2007,585
+ Togo,2007,439
+ Tonga,2007,686
+ Trinidad and Tobago,2007,771
+ Tunisia,2007,700
+ Turkey,2007,712
+ Uganda,2007,466
+ Ukraine,2007,751
+ United Arab Emirates,2007,819
+ United Kingdom,2007,899
+ United States,2007,906
+ Uruguay,2007,765
+ Uzbekistan,2007,649
+ Vanuatu,2007,583
+"Venezuela, RB",2007,748
+Vietnam,2007,640
+"Yemen, Rep.",2007,492
+Zambia,2007,488
+Zimbabwe,2007,421
+Afghanistan,2008,447
+Albania,2008,728
+ Algeria,2008,702
+ Andorra,2008,840
+ Angola,2008,501
+Bermuda,2008,774
+ Argentina,2008,821
+ Armenia,2008,745
+ Australia,2008,926
+ Austria,2008,893
+ Azerbaijan,2008,716
+" Bahamas, The",2008,804
+ Bahrain,2008,800
+ Bangladesh,2008,531
+ Barbados,2008,800
+ Belarus,2008,777
+ Belgium,2008,906
+ Belize,2008,679
+ Benin,2008,482
+ Bhutan,2008,551
+ Bolivia ,2008,658
+ Bosnia and Herzegovina,2008,726
+ Botswana,2008,641
+ Brazil,2008,717
+ Brunei Darussalam,2008,825
+ Bulgaria,2008,780
+ Burkina Faso,2008,364
+ Burundi,2008,384
+ Cabo Verde,2008,625
+ Cambodia,2008,525
+ Cameroon,2008,490
+ Canada,2008,898
+ Central African Republic,2008,352
+ Chad,2008,346
+ Chile,2008,814
+ China,2008,678
+ Colombia,2008,718
+ Comoros,2008,508
+"Congo, Rep.",2008,501
+"Congo, Dem. Rep.",2008,412
+ Costa Rica,2008,761
+ Croatia,2008,813
+ Cuba,2008,783
+ Cyprus,2008,858
+Czech Republic,2008,863
+Cote d'Ivoire,2008,455
+ Denmark,2008,917
+ Djibouti,2008,432
+ Dominica,2008,730
+ Dominican Republic,2008,698
+ Ecuador,2008,717
+"Egypt, Arab Rep.",2008,660
+ El Salvador,2008,655
+ Equatorial Guinea,2008,583
+ Eritrea,2008,426
+ Estonia,2008,848
+ Eswatini,2008,487
+ Ethiopia,2008,403
+ Fiji,2008,712
+ Finland,2008,917
+ France,2008,875
+ Gabon,2008,639
+" Gambia, The",2008,453
+ Georgia,2008,742
+ Germany,2008,924
+ Ghana,2008,553
+ Greece,2008,865
+ Grenada,2008,753
+ Guatemala,2008,597
+ Guinea,2008,408
+ Guinea-Bissau,2008,424
+ Guyana,2008,638
+ Haiti,2008,466
+ Honduras,2008,603
+" Hong Kong, China (SAR)",2008,899
+ Hungary,2008,822
+ Iceland,2008,899
+ India,2008,563
+ Indonesia,2008,647
+"Iran, Islamic Rep.",2008,728
+ Iraq,2008,630
+ Ireland,2008,911
+ Israel,2008,889
+ Italy,2008,876
+ Jamaica,2008,737
+ Japan,2008,883
+ Jordan,2008,745
+ Kazakhstan,2008,758
+ Kenya,2008,532
+ Kiribati,2008,590
+"Korea, Dem. People’s Rep.",2008,880
+ Kuwait,2008,790
+Kyrgyz Republic,2008,656
+Lao PDR,2008,535
+ Latvia,2008,828
+ Lebanon,2008,757
+ Lesotho,2008,446
+ Liberia,2008,450
+ Libya,2008,800
+ Liechtenstein,2008,899
+ Lithuania,2008,838
+ Luxembourg,2008,890
+ Madagascar,2008,506
+ Malawi,2008,405
+ Malaysia,2008,761
+ Maldives,2008,673
+ Mali,2008,394
+ Malta,2008,839
+ Mauritania,2008,494
+ Mauritius,2008,738
+ Mexico,2008,748
+"Micronesia, Fed. Sts.",2008,593
+ Moldova,2008,710
+ Mongolia,2008,682
+ Montenegro,2008,794
+ Morocco,2008,602
+ Mozambique,2008,387
+ Myanmar,2008,493
+ Namibia,2008,567
+ Nepal,2008,509
+ Netherlands,2008,913
+ New Zealand,2008,902
+ Nicaragua,2008,616
+ Niger,2008,314
+ Nigeria,2008,484
+ North Macedonia,2008,737
+ Norway,2008,937
+ Oman,2008,770
+ Pakistan,2008,503
+ Palau,2008,781
+ Panama,2008,771
+ Papua New Guinea,2008,503
+ Paraguay,2008,684
+ Peru,2008,715
+ Philippines,2008,666
+ Poland,2008,829
+ Portugal,2008,817
+ Qatar,2008,843
+ Romania,2008,803
+ Russian Federation,2008,775
+Rwanda,2008,461
+St. Kitts and Nevis,2008,739
+St. Lucia,2008,725
+St. Vincent and the Grenadines,2008,721
+ Samoa,2008,687
+ Sao Tome and Principe,2008,546
+ Saudi Arabia,2008,792
+ Senegal,2008,457
+ Serbia,2008,764
+ Seychelles,2008,750
+ Sierra Leone,2008,386
+ Singapore,2008,888
+Slovak Republic,2008,823
+ Slovenia,2008,886
+ Solomon Islands,2008,524
+ South Africa,2008,646
+ Spain,2008,863
+ Sri Lanka,2008,746
+ Sudan,2008,461
+ Suriname,2008,701
+ Sweden,2008,907
+ Switzerland,2008,925
+ Syrian Arab Republic,2008,676
+ Tajikistan,2008,639
+ Tanzania,2008,465
+ Thailand,2008,718
+ Timor-Leste,2008,616
+ Togo,2008,447
+ Tonga,2008,688
+ Trinidad and Tobago,2008,778
+ Tunisia,2008,707
+ Turkey,2008,714
+ Uganda,2008,479
+ Ukraine,2008,755
+ United Arab Emirates,2008,821
+ United Kingdom,2008,903
+ United States,2008,911
+ Uruguay,2008,769
+ Uzbekistan,2008,653
+ Vanuatu,2008,589
+"Venezuela, RB",2008,757
+Vietnam,2008,647
+"Yemen, Rep.",2008,495
+Zambia,2008,503
+Zimbabwe,2008,422
+Afghanistan,2009,460
+Albania,2009,733
+ Algeria,2009,711
+ Andorra,2009,839
+ Angola,2009,515
+Bermuda,2009,767
+ Argentina,2009,821
+ Armenia,2009,742
+ Australia,2009,928
+ Austria,2009,895
+ Azerbaijan,2009,727
+" Bahamas, The",2009,803
+ Bahrain,2009,798
+ Bangladesh,2009,543
+ Barbados,2009,800
+ Belarus,2009,787
+ Belgium,2009,907
+ Belize,2009,684
+ Benin,2009,488
+ Bhutan,2009,561
+ Bolivia ,2009,663
+ Bosnia and Herzegovina,2009,727
+ Botswana,2009,650
+ Brazil,2009,719
+ Brunei Darussalam,2009,827
+ Bulgaria,2009,782
+ Burkina Faso,2009,373
+ Burundi,2009,401
+ Cabo Verde,2009,630
+ Cambodia,2009,528
+ Cameroon,2009,498
+ Canada,2009,898
+ Central African Republic,2009,356
+ Chad,2009,361
+ Chile,2009,822
+ China,2009,687
+ Colombia,2009,720
+ Comoros,2009,514
+"Congo, Rep.",2009,514
+"Congo, Dem. Rep.",2009,419
+ Costa Rica,2009,762
+ Croatia,2009,812
+ Cuba,2009,785
+ Cyprus,2009,862
+Czech Republic,2009,866
+Cote d'Ivoire,2009,462
+ Denmark,2009,914
+ Djibouti,2009,442
+ Dominica,2009,731
+ Dominican Republic,2009,700
+ Ecuador,2009,719
+"Egypt, Arab Rep.",2009,662
+ El Salvador,2009,656
+ Equatorial Guinea,2009,585
+ Eritrea,2009,436
+ Estonia,2009,846
+ Eswatini,2009,498
+ Ethiopia,2009,411
+ Fiji,2009,715
+ Finland,2009,912
+ France,2009,876
+ Gabon,2009,646
+" Gambia, The",2009,456
+ Georgia,2009,746
+ Germany,2009,924
+ Ghana,2009,558
+ Greece,2009,867
+ Grenada,2009,750
+ Guatemala,2009,601
+ Guinea,2009,408
+ Guinea-Bissau,2009,430
+ Guyana,2009,641
+ Haiti,2009,470
+ Honduras,2009,605
+" Hong Kong, China (SAR)",2009,901
+ Hungary,2009,828
+ Iceland,2009,898
+ India,2009,569
+ Indonesia,2009,658
+"Iran, Islamic Rep.",2009,734
+ Iraq,2009,632
+ Ireland,2009,906
+ Israel,2009,890
+ Italy,2009,876
+ Jamaica,2009,733
+ Japan,2009,882
+ Jordan,2009,743
+ Kazakhstan,2009,762
+ Kenya,2009,541
+ Kiribati,2009,588
+"Korea, Dem. People’s Rep.",2009,877
+ Kuwait,2009,789
+Kyrgyz Republic,2009,661
+Lao PDR,2009,545
+ Latvia,2009,826
+ Lebanon,2009,764
+ Lesotho,2009,455
+ Liberia,2009,452
+ Libya,2009,799
+ Liechtenstein,2009,899
+ Lithuania,2009,828
+ Luxembourg,2009,893
+ Madagascar,2009,510
+ Malawi,2009,420
+ Malaysia,2009,765
+ Maldives,2009,674
+ Mali,2009,401
+ Malta,2009,840
+ Mauritania,2009,502
+ Mauritius,2009,745
+ Mexico,2009,748
+"Micronesia, Fed. Sts.",2009,596
+ Moldova,2009,706
+ Mongolia,2009,687
+ Montenegro,2009,797
+ Morocco,2009,608
+ Mozambique,2009,394
+ Myanmar,2009,504
+ Namibia,2009,576
+ Nepal,2009,522
+ Netherlands,2009,912
+ New Zealand,2009,905
+ Nicaragua,2009,617
+ Niger,2009,321
+ Nigeria,2009,490
+ North Macedonia,2009,739
+ Norway,2009,937
+ Oman,2009,777
+ Pakistan,2009,508
+ Palau,2009,782
+ Panama,2009,772
+ Papua New Guinea,2009,512
+ Paraguay,2009,681
+ Peru,2009,718
+ Philippines,2009,665
+ Poland,2009,834
+ Portugal,2009,823
+ Qatar,2009,841
+ Romania,2009,806
+ Russian Federation,2009,773
+Rwanda,2009,477
+St. Kitts and Nevis,2009,740
+St. Lucia,2009,728
+St. Vincent and the Grenadines,2009,720
+ Samoa,2009,691
+ Sao Tome and Principe,2009,556
+ Saudi Arabia,2009,796
+ Senegal,2009,461
+ Serbia,2009,766
+ Seychelles,2009,754
+ Sierra Leone,2009,394
+ Singapore,2009,888
+Slovak Republic,2009,825
+ Slovenia,2009,885
+ Solomon Islands,2009,517
+ South Africa,2009,655
+ Spain,2009,865
+ Sri Lanka,2009,749
+ Sudan,2009,468
+ Suriname,2009,707
+ Sweden,2009,905
+ Switzerland,2009,935
+ Syrian Arab Republic,2009,674
+ Tajikistan,2009,633
+ Tanzania,2009,474
+ Thailand,2009,722
+ Timor-Leste,2009,611
+ Togo,2009,456
+ Tonga,2009,693
+ Trinidad and Tobago,2009,782
+ Tunisia,2009,709
+ Turkey,2009,720
+ Uganda,2009,487
+ Ukraine,2009,749
+ United Arab Emirates,2009,819
+ United Kingdom,2009,906
+ United States,2009,912
+ Uruguay,2009,775
+ Uzbekistan,2009,660
+ Vanuatu,2009,589
+"Venezuela, RB",2009,756
+Vietnam,2009,659
+"Yemen, Rep.",2009,502
+Zambia,2009,517
+Zimbabwe,2009,458
+Afghanistan,2010,472
+Albania,2010,745
+ Algeria,2010,721
+ Andorra,2010,837
+ Angola,2010,517
+Bermuda,2010,763
+ Argentina,2010,829
+ Armenia,2010,747
+ Australia,2010,930
+ Austria,2010,904
+ Azerbaijan,2010,726
+" Bahamas, The",2010,805
+ Bahrain,2010,800
+ Bangladesh,2010,557
+ Barbados,2010,797
+ Belarus,2010,795
+ Belgium,2010,910
+ Belize,2010,695
+ Benin,2010,494
+ Bhutan,2010,574
+ Bolivia ,2010,667
+ Bosnia and Herzegovina,2010,721
+ Botswana,2010,663
+ Brazil,2010,727
+ Brunei Darussalam,2010,827
+ Bulgaria,2010,788
+ Burkina Faso,2010,384
+ Burundi,2010,411
+ Cabo Verde,2010,632
+ Cambodia,2010,539
+ Cameroon,2010,505
+ Canada,2010,901
+ Central African Republic,2010,365
+ Chad,2010,369
+ Chile,2010,803
+ China,2010,699
+ Colombia,2010,729
+ Comoros,2010,521
+"Congo, Rep.",2010,520
+"Congo, Dem. Rep.",2010,435
+ Costa Rica,2010,765
+ Croatia,2010,815
+ Cuba,2010,781
+ Cyprus,2010,856
+Czech Republic,2010,870
+Cote d'Ivoire,2010,468
+ Denmark,2010,917
+ Djibouti,2010,454
+ Dominica,2010,740
+ Dominican Republic,2010,706
+ Ecuador,2010,726
+"Egypt, Arab Rep.",2010,668
+ El Salvador,2010,668
+ Equatorial Guinea,2010,576
+ Eritrea,2010,436
+ Estonia,2010,852
+ Eswatini,2010,510
+ Ethiopia,2010,421
+ Fiji,2010,715
+ Finland,2010,916
+ France,2010,879
+ Gabon,2010,652
+" Gambia, The",2010,459
+ Georgia,2010,751
+ Germany,2010,927
+ Ghana,2010,565
+ Greece,2010,865
+ Grenada,2010,754
+ Guatemala,2010,606
+ Guinea,2010,416
+ Guinea-Bissau,2010,436
+ Guyana,2010,649
+ Haiti,2010,471
+ Honduras,2010,610
+" Hong Kong, China (SAR)",2010,904
+ Hungary,2010,831
+ Iceland,2010,898
+ India,2010,579
+ Indonesia,2010,665
+"Iran, Islamic Rep.",2010,742
+ Iraq,2010,636
+ Ireland,2010,901
+ Israel,2010,895
+ Italy,2010,879
+ Jamaica,2010,732
+ Japan,2010,887
+ Jordan,2010,737
+ Kazakhstan,2010,764
+ Kenya,2010,551
+ Kiribati,2010,593
+"Korea, Dem. People’s Rep.",2010,889
+ Kuwait,2010,788
+Kyrgyz Republic,2010,662
+Lao PDR,2010,552
+ Latvia,2010,824
+ Lebanon,2010,766
+ Lesotho,2010,460
+ Liberia,2010,455
+ Libya,2010,798
+ Liechtenstein,2010,904
+ Lithuania,2010,831
+ Luxembourg,2010,898
+ Madagascar,2010,511
+ Malawi,2010,431
+ Malaysia,2010,772
+ Maldives,2010,685
+ Mali,2010,408
+ Malta,2010,853
+ Mauritania,2010,505
+ Mauritius,2010,751
+ Mexico,2010,748
+"Micronesia, Fed. Sts.",2010,601
+ Moldova,2010,713
+ Mongolia,2010,696
+ Montenegro,2010,802
+ Morocco,2010,616
+ Mozambique,2010,401
+ Myanmar,2010,515
+ Namibia,2010,589
+ Nepal,2010,537
+ Netherlands,2010,917
+ New Zealand,2010,906
+ Nicaragua,2010,622
+ Niger,2010,331
+ Nigeria,2010,482
+ North Macedonia,2010,743
+ Norway,2010,940
+ Oman,2010,782
+ Pakistan,2010,512
+ Palau,2010,786
+ Panama,2010,774
+ Papua New Guinea,2010,522
+ Paraguay,2010,696
+ Peru,2010,721
+ Philippines,2010,671
+ Poland,2010,840
+ Portugal,2010,829
+ Qatar,2010,834
+ Romania,2010,805
+ Russian Federation,2010,781
+Rwanda,2010,492
+St. Kitts and Nevis,2010,746
+St. Lucia,2010,730
+St. Vincent and the Grenadines,2010,718
+ Samoa,2010,698
+ Sao Tome and Principe,2010,561
+ Saudi Arabia,2010,809
+ Senegal,2010,468
+ Serbia,2010,766
+ Seychelles,2010,764
+ Sierra Leone,2010,399
+ Singapore,2010,909
+Slovak Republic,2010,831
+ Slovenia,2010,889
+ Solomon Islands,2010,537
+ South Africa,2010,664
+ South Sudan,2010,410
+ Spain,2010,872
+ Sri Lanka,2010,754
+ Sudan,2010,469
+ Suriname,2010,710
+ Sweden,2010,911
+ Switzerland,2010,941
+ Syrian Arab Republic,2010,672
+ Tajikistan,2010,638
+ Tanzania,2010,481
+ Thailand,2010,724
+ Timor-Leste,2010,628
+ Togo,2010,466
+ Tonga,2010,699
+ Trinidad and Tobago,2010,784
+ Tunisia,2010,716
+ Turkey,2010,739
+ Turkmenistan,2010,666
+ Uganda,2010,498
+ Ukraine,2010,755
+ United Arab Emirates,2010,820
+ United Kingdom,2010,912
+ United States,2010,916
+ Uruguay,2010,782
+ Uzbekistan,2010,669
+ Vanuatu,2010,590
+"Venezuela, RB",2010,757
+Vietnam,2010,661
+"Yemen, Rep.",2010,506
+Zambia,2010,527
+Zimbabwe,2010,482
+Afghanistan,2011,477
+Albania,2011,764
+ Algeria,2011,728
+ Andorra,2011,836
+ Angola,2011,533
+Bermuda,2011,755
+ Argentina,2011,835
+ Armenia,2011,751
+ Australia,2011,932
+ Austria,2011,906
+ Azerbaijan,2011,727
+" Bahamas, The",2011,805
+ Bahrain,2011,801
+ Bangladesh,2011,566
+ Barbados,2011,799
+ Belarus,2011,801
+ Belgium,2011,911
+ Belize,2011,694
+ Benin,2011,500
+ Bhutan,2011,585
+ Bolivia ,2011,671
+ Bosnia and Herzegovina,2011,729
+ Botswana,2011,677
+ Brazil,2011,731
+ Brunei Darussalam,2011,831
+ Bulgaria,2011,791
+ Burkina Faso,2011,394
+ Burundi,2011,419
+ Cabo Verde,2011,639
+ Cambodia,2011,546
+ Cameroon,2011,514
+ Canada,2011,903
+ Central African Republic,2011,374
+ Chad,2011,380
+ Chile,2011,815
+ China,2011,707
+ Colombia,2011,734
+ Comoros,2011,533
+"Congo, Rep.",2011,522
+"Congo, Dem. Rep.",2011,438
+ Costa Rica,2011,778
+ Croatia,2011,823
+ Cuba,2011,780
+ Cyprus,2011,860
+Czech Republic,2011,874
+Cote d'Ivoire,2011,472
+ Denmark,2011,930
+ Djibouti,2011,463
+ Dominica,2011,741
+ Dominican Republic,2011,710
+ Ecuador,2011,732
+"Egypt, Arab Rep.",2011,671
+ El Salvador,2011,664
+ Equatorial Guinea,2011,580
+ Eritrea,2011,436
+ Estonia,2011,860
+ Eswatini,2011,524
+ Ethiopia,2011,432
+ Fiji,2011,719
+ Finland,2011,920
+ France,2011,882
+ Gabon,2011,657
+" Gambia, The",2011,455
+ Georgia,2011,757
+ Germany,2011,933
+ Ghana,2011,574
+ Greece,2011,862
+ Grenada,2011,756
+ Guatemala,2011,612
+ Guinea,2011,429
+ Guinea-Bissau,2011,445
+ Guyana,2011,658
+ Haiti,2011,478
+ Honduras,2011,613
+" Hong Kong, China (SAR)",2011,907
+ Hungary,2011,828
+ Iceland,2011,907
+ India,2011,588
+ Indonesia,2011,673
+"Iran, Islamic Rep.",2011,753
+ Iraq,2011,642
+ Ireland,2011,902
+ Israel,2011,901
+ Italy,2011,883
+ Jamaica,2011,731
+ Japan,2011,892
+ Jordan,2011,734
+ Kazakhstan,2011,772
+ Kenya,2011,559
+ Kiribati,2011,591
+"Korea, Dem. People’s Rep.",2011,895
+ Kuwait,2011,792
+Kyrgyz Republic,2011,664
+Lao PDR,2011,565
+ Latvia,2011,829
+ Lebanon,2011,768
+ Lesotho,2011,469
+ Liberia,2011,472
+ Libya,2011,764
+ Liechtenstein,2011,909
+ Lithuania,2011,838
+ Luxembourg,2011,899
+ Madagascar,2011,512
+ Malawi,2011,440
+ Malaysia,2011,778
+ Maldives,2011,697
+ Mali,2011,413
+ Malta,2011,853
+ Mauritania,2011,509
+ Mauritius,2011,760
+ Mexico,2011,755
+"Micronesia, Fed. Sts.",2011,604
+ Moldova,2011,719
+ Mongolia,2011,710
+ Montenegro,2011,806
+ Morocco,2011,626
+ Mozambique,2011,397
+ Myanmar,2011,526
+ Namibia,2011,602
+ Nepal,2011,545
+ Netherlands,2011,928
+ New Zealand,2011,909
+ Nicaragua,2011,628
+ Niger,2011,338
+ Nigeria,2011,492
+ North Macedonia,2011,747
+ Norway,2011,942
+ Oman,2011,782
+ Pakistan,2011,516
+ Palau,2011,793
+ Panama,2011,780
+ Papua New Guinea,2011,530
+ Paraguay,2011,701
+ Peru,2011,734
+ Philippines,2011,676
+ Poland,2011,845
+ Portugal,2011,833
+ Qatar,2011,840
+ Romania,2011,806
+ Russian Federation,2011,790
+Rwanda,2011,500
+St. Kitts and Nevis,2011,749
+St. Lucia,2011,736
+St. Vincent and the Grenadines,2011,721
+ Samoa,2011,701
+ Sao Tome and Principe,2011,568
+ Saudi Arabia,2011,823
+ Senegal,2011,471
+ Serbia,2011,776
+ Seychelles,2011,767
+ Sierra Leone,2011,406
+ Singapore,2011,913
+Slovak Republic,2011,838
+ Slovenia,2011,891
+ Solomon Islands,2011,541
+ South Africa,2011,665
+ South Sudan,2011,430
+ Spain,2011,878
+ Sri Lanka,2011,760
+ Sudan,2011,474
+ Suriname,2011,717
+ Sweden,2011,912
+ Switzerland,2011,941
+ Syrian Arab Republic,2011,678
+ Tajikistan,2011,636
+ Tanzania,2011,487
+ Thailand,2011,733
+ Timor-Leste,2011,644
+ Togo,2011,479
+ Tonga,2011,704
+ Trinidad and Tobago,2011,782
+ Tunisia,2011,718
+ Turkey,2011,753
+ Turkmenistan,2011,673
+ Uganda,2011,504
+ Ukraine,2011,760
+ United Arab Emirates,2011,826
+ United Kingdom,2011,906
+ United States,2011,919
+ Uruguay,2011,789
+ Uzbekistan,2011,676
+ Vanuatu,2011,591
+"Venezuela, RB",2011,769
+Vietnam,2011,671
+"Yemen, Rep.",2011,506
+Zambia,2011,534
+Zimbabwe,2011,499
+Afghanistan,2012,489
+Albania,2012,775
+ Algeria,2012,728
+ Andorra,2012,858
+ Angola,2012,544
+Bermuda,2012,759
+ Argentina,2012,834
+ Armenia,2012,756
+ Australia,2012,937
+ Austria,2012,908
+ Azerbaijan,2012,730
+" Bahamas, The",2012,807
+ Bahrain,2012,808
+ Bangladesh,2012,575
+ Barbados,2012,808
+ Belarus,2012,806
+ Belgium,2012,913
+ Belize,2012,701
+ Benin,2012,510
+ Bhutan,2012,597
+ Bolivia ,2012,675
+ Bosnia and Herzegovina,2012,748
+ Botswana,2012,689
+ Brazil,2012,735
+ Brunei Darussalam,2012,839
+ Bulgaria,2012,795
+ Burkina Faso,2012,403
+ Burundi,2012,426
+ Cabo Verde,2012,644
+ Cambodia,2012,552
+ Cameroon,2012,525
+ Canada,2012,906
+ Central African Republic,2012,381
+ Chad,2012,388
+ Chile,2012,821
+ China,2012,716
+ Colombia,2012,739
+ Comoros,2012,538
+"Congo, Rep.",2012,535
+"Congo, Dem. Rep.",2012,442
+ Costa Rica,2012,783
+ Croatia,2012,825
+ Cuba,2012,769
+ Cyprus,2012,859
+Czech Republic,2012,874
+Cote d'Ivoire,2012,482
+ Denmark,2012,931
+ Djibouti,2012,474
+ Dominica,2012,739
+ Dominican Republic,2012,714
+ Ecuador,2012,751
+"Egypt, Arab Rep.",2012,677
+ El Salvador,2012,669
+ Equatorial Guinea,2012,584
+ Eritrea,2012,441
+ Estonia,2012,865
+ Eswatini,2012,539
+ Ethiopia,2012,438
+ Fiji,2012,722
+ Finland,2012,921
+ France,2012,885
+ Gabon,2012,666
+" Gambia, The",2012,461
+ Georgia,2012,767
+ Germany,2012,934
+ Ghana,2012,577
+ Greece,2012,865
+ Grenada,2012,757
+ Guatemala,2012,618
+ Guinea,2012,439
+ Guinea-Bissau,2012,448
+ Guyana,2012,662
+ Haiti,2012,482
+ Honduras,2012,612
+" Hong Kong, China (SAR)",2012,914
+ Hungary,2012,831
+ Iceland,2012,915
+ India,2012,597
+ Indonesia,2012,681
+"Iran, Islamic Rep.",2012,768
+ Iraq,2012,646
+ Ireland,2012,908
+ Israel,2012,903
+ Italy,2012,882
+ Jamaica,2012,731
+ Japan,2012,897
+ Jordan,2012,735
+ Kazakhstan,2012,782
+ Kenya,2012,566
+ Kiribati,2012,600
+"Korea, Dem. People’s Rep.",2012,898
+ Kuwait,2012,796
+Kyrgyz Republic,2012,674
+Lao PDR,2012,575
+ Latvia,2012,832
+ Lebanon,2012,759
+ Lesotho,2012,480
+ Liberia,2012,469
+ Libya,2012,789
+ Liechtenstein,2012,908
+ Lithuania,2012,841
+ Luxembourg,2012,900
+ Madagascar,2012,514
+ Malawi,2012,446
+ Malaysia,2012,781
+ Maldives,2012,704
+ Mali,2012,413
+ Malta,2012,860
+ Mauritania,2012,517
+ Mauritius,2012,771
+ Mexico,2012,759
+"Micronesia, Fed. Sts.",2012,605
+ Moldova,2012,726
+ Mongolia,2012,718
+ Montenegro,2012,807
+ Morocco,2012,635
+ Mozambique,2012,403
+ Myanmar,2012,533
+ Namibia,2012,613
+ Nepal,2012,559
+ Netherlands,2012,928
+ New Zealand,2012,911
+ Nicaragua,2012,633
+ Niger,2012,350
+ Nigeria,2012,500
+ North Macedonia,2012,748
+ Norway,2012,941
+ Oman,2012,791
+ Pakistan,2012,519
+ Palau,2012,795
+ Panama,2012,786
+ Papua New Guinea,2012,520
+ Paraguay,2012,701
+ Peru,2012,742
+ Philippines,2012,684
+ Poland,2012,842
+ Portugal,2012,836
+ Qatar,2012,854
+ Romania,2012,803
+ Russian Federation,2012,798
+Rwanda,2012,508
+St. Kitts and Nevis,2012,745
+St. Lucia,2012,730
+St. Vincent and the Grenadines,2012,720
+ Samoa,2012,698
+ Sao Tome and Principe,2012,573
+ Saudi Arabia,2012,835
+ Senegal,2012,487
+ Serbia,2012,775
+ Seychelles,2012,755
+ Sierra Leone,2012,421
+ Singapore,2012,918
+Slovak Republic,2012,843
+ Slovenia,2012,884
+ Solomon Islands,2012,553
+ South Africa,2012,675
+ South Sudan,2012,397
+ Spain,2012,881
+ Sri Lanka,2012,766
+ Sudan,2012,486
+ Suriname,2012,729
+ Sweden,2012,914
+ Switzerland,2012,944
+ Syrian Arab Republic,2012,664
+ Tajikistan,2012,643
+ Tanzania,2012,496
+ Thailand,2012,737
+ Timor-Leste,2012,639
+ Togo,2012,482
+ Tonga,2012,708
+ Trinidad and Tobago,2012,780
+ Tunisia,2012,720
+ Turkey,2012,765
+ Turkmenistan,2012,679
+ Uganda,2012,507
+ Ukraine,2012,764
+ United Arab Emirates,2012,832
+ United Kingdom,2012,904
+ United States,2012,920
+ Uruguay,2012,793
+ Uzbekistan,2012,685
+ Vanuatu,2012,591
+"Venezuela, RB",2012,772
+Vietnam,2012,676
+"Yemen, Rep.",2012,504
+Zambia,2012,549
+Zimbabwe,2012,525
+Afghanistan,2013,496
+Albania,2013,782
+ Algeria,2013,729
+ Andorra,2013,856
+ Angola,2013,555
+Bermuda,2013,760
+ Argentina,2013,835
+ Armenia,2013,762
+ Australia,2013,931
+ Austria,2013,905
+ Azerbaijan,2013,735
+" Bahamas, The",2013,806
+ Bahrain,2013,815
+ Bangladesh,2013,579
+ Barbados,2013,807
+ Belarus,2013,811
+ Belgium,2013,916
+ Belize,2013,702
+ Benin,2013,522
+ Bhutan,2013,610
+ Bolivia ,2013,684
+ Bosnia and Herzegovina,2013,755
+ Botswana,2013,701
+ Brazil,2013,753
+ Brunei Darussalam,2013,839
+ Bulgaria,2013,801
+ Burkina Faso,2013,410
+ Burundi,2013,432
+ Cabo Verde,2013,647
+ Cambodia,2013,559
+ Cameroon,2013,534
+ Canada,2013,913
+ Central African Republic,2013,363
+ Chad,2013,394
+ Chile,2013,826
+ China,2013,724
+ Colombia,2013,742
+ Comoros,2013,542
+"Congo, Rep.",2013,545
+"Congo, Dem. Rep.",2013,448
+ Costa Rica,2013,788
+ Croatia,2013,830
+ Cuba,2013,766
+ Cyprus,2013,860
+Czech Republic,2013,882
+Cote d'Ivoire,2013,490
+ Denmark,2013,933
+ Djibouti,2013,484
+ Dominica,2013,739
+ Dominican Republic,2013,718
+ Ecuador,2013,754
+"Egypt, Arab Rep.",2013,683
+ El Salvador,2013,670
+ Equatorial Guinea,2013,585
+ Eritrea,2013,446
+ Estonia,2013,869
+ Eswatini,2013,554
+ Ethiopia,2013,447
+ Fiji,2013,728
+ Finland,2013,928
+ France,2013,889
+ Gabon,2013,673
+" Gambia, The",2013,467
+ Georgia,2013,775
+ Germany,2013,935
+ Ghana,2013,586
+ Greece,2013,867
+ Grenada,2013,760
+ Guatemala,2013,621
+ Guinea,2013,445
+ Guinea-Bissau,2013,452
+ Guyana,2013,666
+ Haiti,2013,487
+ Honduras,2013,613
+" Hong Kong, China (SAR)",2013,918
+ Hungary,2013,839
+ Iceland,2013,927
+ India,2013,604
+ Indonesia,2013,687
+"Iran, Islamic Rep.",2013,771
+ Iraq,2013,646
+ Ireland,2013,917
+ Israel,2013,905
+ Italy,2013,881
+ Jamaica,2013,729
+ Japan,2013,902
+ Jordan,2013,729
+ Kazakhstan,2013,791
+ Kenya,2013,573
+ Kiribati,2013,608
+"Korea, Dem. People’s Rep.",2013,901
+ Kuwait,2013,793
+Kyrgyz Republic,2013,680
+Lao PDR,2013,582
+ Latvia,2013,839
+ Lebanon,2013,757
+ Lesotho,2013,489
+ Liberia,2013,477
+ Libya,2013,761
+ Liechtenstein,2013,912
+ Lithuania,2013,847
+ Luxembourg,2013,900
+ Madagascar,2013,517
+ Malawi,2013,456
+ Malaysia,2013,785
+ Maldives,2013,709
+ Mali,2013,413
+ Malta,2013,867
+ Mauritania,2013,525
+ Mauritius,2013,779
+ Mexico,2013,756
+"Micronesia, Fed. Sts.",2013,605
+ Moldova,2013,735
+ Mongolia,2013,727
+ Montenegro,2013,811
+ Morocco,2013,644
+ Mozambique,2013,417
+ Myanmar,2013,543
+ Namibia,2013,624
+ Nepal,2013,568
+ Netherlands,2013,930
+ New Zealand,2013,914
+ Nicaragua,2013,639
+ Niger,2013,357
+ Nigeria,2013,519
+ North Macedonia,2013,751
+ Norway,2013,944
+ Oman,2013,799
+ Pakistan,2013,523
+ Palau,2013,821
+ Panama,2013,791
+ Papua New Guinea,2013,537
+ Paraguay,2013,712
+ Peru,2013,750
+ Philippines,2013,691
+ Poland,2013,856
+ Portugal,2013,840
+ Qatar,2013,842
+ Romania,2013,808
+ Russian Federation,2013,802
+Rwanda,2013,515
+St. Kitts and Nevis,2013,764
+St. Lucia,2013,732
+St. Vincent and the Grenadines,2013,723
+ Samoa,2013,700
+ Sao Tome and Principe,2013,582
+ Saudi Arabia,2013,845
+ Senegal,2013,494
+ Serbia,2013,778
+ Seychelles,2013,775
+ Sierra Leone,2013,433
+ Singapore,2013,921
+Slovak Republic,2013,845
+ Slovenia,2013,893
+ Solomon Islands,2013,558
+ South Africa,2013,685
+ South Sudan,2013,428
+ Spain,2013,882
+ Sri Lanka,2013,769
+ Sudan,2013,494
+ Suriname,2013,734
+ Sweden,2013,933
+ Switzerland,2013,946
+ Syrian Arab Republic,2013,596
+ Tajikistan,2013,653
+ Tanzania,2013,497
+ Thailand,2013,734
+ Timor-Leste,2013,630
+ Togo,2013,488
+ Tonga,2013,708
+ Trinidad and Tobago,2013,783
+ Tunisia,2013,723
+ Turkey,2013,785
+ Turkmenistan,2013,685
+ Uganda,2013,513
+ Ukraine,2013,767
+ United Arab Emirates,2013,838
+ United Kingdom,2013,921
+ United States,2013,918
+ Uruguay,2013,800
+ Uzbekistan,2013,692
+ Vanuatu,2013,593
+"Venezuela, RB",2013,777
+Vietnam,2013,681
+"Yemen, Rep.",2013,509
+Zambia,2013,557
+Zimbabwe,2013,537
+Afghanistan,2014,500
+Albania,2014,787
+ Algeria,2014,736
+ Andorra,2014,863
+ Angola,2014,565
+Bermuda,2014,760
+ Argentina,2014,836
+ Armenia,2014,764
+ Australia,2014,933
+ Austria,2014,913
+ Azerbaijan,2014,740
+" Bahamas, The",2014,805
+ Bahrain,2014,820
+ Bangladesh,2014,579
+ Barbados,2014,808
+ Belarus,2014,814
+ Belgium,2014,918
+ Belize,2014,705
+ Benin,2014,527
+ Bhutan,2014,618
+ Bolivia ,2014,690
+ Bosnia and Herzegovina,2014,758
+ Botswana,2014,711
+ Brazil,2014,756
+ Brunei Darussalam,2014,838
+ Bulgaria,2014,806
+ Burkina Faso,2014,413
+ Burundi,2014,438
+ Cabo Verde,2014,654
+ Cambodia,2014,565
+ Cameroon,2014,540
+ Canada,2014,918
+ Central African Republic,2014,368
+ Chad,2014,401
+ Chile,2014,837
+ China,2014,731
+ Colombia,2014,753
+ Comoros,2014,543
+"Congo, Rep.",2014,560
+"Congo, Dem. Rep.",2014,460
+ Costa Rica,2014,796
+ Croatia,2014,835
+ Cuba,2014,767
+ Cyprus,2014,862
+Czech Republic,2014,888
+Cote d'Ivoire,2014,492
+ Denmark,2014,935
+ Djibouti,2014,492
+ Dominica,2014,741
+ Dominican Republic,2014,730
+ Ecuador,2014,756
+"Egypt, Arab Rep.",2014,685
+ El Salvador,2014,668
+ Equatorial Guinea,2014,586
+ Eritrea,2014,457
+ Estonia,2014,871
+ Eswatini,2014,568
+ Ethiopia,2014,455
+ Fiji,2014,733
+ Finland,2014,928
+ France,2014,893
+ Gabon,2014,682
+" Gambia, The",2014,468
+ Georgia,2014,783
+ Germany,2014,937
+ Ghana,2014,590
+ Greece,2014,875
+ Grenada,2014,766
+ Guatemala,2014,648
+ Guinea,2014,452
+ Guinea-Bissau,2014,459
+ Guyana,2014,671
+ Haiti,2014,492
+ Honduras,2014,616
+" Hong Kong, China (SAR)",2014,926
+ Hungary,2014,838
+ Iceland,2014,931
+ India,2014,616
+ Indonesia,2014,690
+"Iran, Islamic Rep.",2014,774
+ Iraq,2014,645
+ Ireland,2014,928
+ Israel,2014,909
+ Italy,2014,882
+ Jamaica,2014,729
+ Japan,2014,906
+ Jordan,2014,729
+ Kazakhstan,2014,798
+ Kenya,2014,580
+ Kiribati,2014,617
+"Korea, Dem. People’s Rep.",2014,904
+ Kuwait,2014,796
+Kyrgyz Republic,2014,686
+Lao PDR,2014,589
+ Latvia,2014,845
+ Lebanon,2014,748
+ Lesotho,2014,498
+ Liberia,2014,478
+ Libya,2014,728
+ Liechtenstein,2014,911
+ Lithuania,2014,859
+ Luxembourg,2014,903
+ Madagascar,2014,520
+ Malawi,2014,465
+ Malaysia,2014,791
+ Maldives,2014,718
+ Mali,2014,419
+ Malta,2014,874
+ Mauritania,2014,531
+ Mauritius,2014,789
+ Mexico,2014,761
+"Micronesia, Fed. Sts.",2014,604
+ Moldova,2014,737
+ Mongolia,2014,732
+ Montenegro,2014,813
+ Morocco,2014,652
+ Mozambique,2014,425
+ Myanmar,2014,550
+ Namibia,2014,631
+ Nepal,2014,576
+ Netherlands,2014,932
+ New Zealand,2014,916
+ Nicaragua,2014,649
+ Niger,2014,365
+ Nigeria,2014,523
+ North Macedonia,2014,755
+ Norway,2014,944
+ Oman,2014,802
+ Pakistan,2014,530
+ Palau,2014,825
+ Panama,2014,795
+ Papua New Guinea,2014,542
+ Paraguay,2014,715
+ Peru,2014,760
+ Philippines,2014,696
+ Poland,2014,858
+ Portugal,2014,847
+ Qatar,2014,835
+ Romania,2014,811
+ Russian Federation,2014,807
+Rwanda,2014,521
+St. Kitts and Nevis,2014,768
+St. Lucia,2014,735
+St. Vincent and the Grenadines,2014,733
+ Samoa,2014,703
+ Sao Tome and Principe,2014,591
+ Saudi Arabia,2014,852
+ Senegal,2014,499
+ Serbia,2014,784
+ Seychelles,2014,775
+ Sierra Leone,2014,438
+ Singapore,2014,926
+Slovak Republic,2014,847
+ Slovenia,2014,894
+ Solomon Islands,2014,559
+ South Africa,2014,693
+ South Sudan,2014,428
+ Spain,2014,888
+ Sri Lanka,2014,773
+ Sudan,2014,499
+ Suriname,2014,735
+ Sweden,2014,935
+ Switzerland,2014,942
+ Syrian Arab Republic,2014,556
+ Tajikistan,2014,652
+ Tanzania,2014,504
+ Thailand,2014,742
+ Timor-Leste,2014,620
+ Togo,2014,493
+ Tonga,2014,707
+ Trinidad and Tobago,2014,785
+ Tunisia,2014,726
+ Turkey,2014,796
+ Turkmenistan,2014,689
+ Uganda,2014,519
+ Ukraine,2014,771
+ United Arab Emirates,2014,847
+ United Kingdom,2014,925
+ United States,2014,920
+ Uruguay,2014,803
+ Uzbekistan,2014,696
+ Vanuatu,2014,594
+"Venezuela, RB",2014,775
+Vietnam,2014,683
+"Yemen, Rep.",2014,502
+Zambia,2014,561
+Zimbabwe,2014,547
+Afghanistan,2015,500
+Albania,2015,788
+ Algeria,2015,740
+ Andorra,2015,862
+ Angola,2015,572
+Bermuda,2015,762
+ Argentina,2015,840
+ Armenia,2015,768
+ Australia,2015,938
+ Austria,2015,915
+ Azerbaijan,2015,744
+" Bahamas, The",2015,808
+ Bahrain,2015,848
+ Bangladesh,2015,595
+ Barbados,2015,809
+ Belarus,2015,814
+ Belgium,2015,922
+ Belize,2015,710
+ Benin,2015,532
+ Bhutan,2015,628
+ Bolivia ,2015,697
+ Bosnia and Herzegovina,2015,761
+ Botswana,2015,717
+ Brazil,2015,756
+ Brunei Darussalam,2015,838
+ Bulgaria,2015,809
+ Burkina Faso,2015,422
+ Burundi,2015,437
+ Cabo Verde,2015,656
+ Cambodia,2015,570
+ Cameroon,2015,549
+ Canada,2015,921
+ Central African Republic,2015,375
+ Chad,2015,398
+ Chile,2015,842
+ China,2015,739
+ Colombia,2015,756
+ Comoros,2015,545
+"Congo, Rep.",2015,580
+"Congo, Dem. Rep.",2015,464
+ Costa Rica,2015,797
+ Croatia,2015,840
+ Cuba,2015,772
+ Cyprus,2015,865
+Czech Republic,2015,891
+Cote d'Ivoire,2015,503
+ Denmark,2015,933
+ Djibouti,2015,499
+ Dominica,2015,739
+ Dominican Republic,2015,738
+ Ecuador,2015,764
+"Egypt, Arab Rep.",2015,691
+ El Salvador,2015,668
+ Equatorial Guinea,2015,589
+ Eritrea,2015,454
+ Estonia,2015,877
+ Eswatini,2015,581
+ Ethiopia,2015,462
+ Fiji,2015,737
+ Finland,2015,930
+ France,2015,895
+ Gabon,2015,685
+" Gambia, The",2015,471
+ Georgia,2015,790
+ Germany,2015,938
+ Ghana,2015,590
+ Greece,2015,877
+ Grenada,2015,770
+ Guatemala,2015,652
+ Guinea,2015,457
+ Guinea-Bissau,2015,464
+ Guyana,2015,674
+ Haiti,2015,496
+ Honduras,2015,618
+" Hong Kong, China (SAR)",2015,930
+ Hungary,2015,842
+ Iceland,2015,934
+ India,2015,624
+ Indonesia,2015,695
+"Iran, Islamic Rep.",2015,774
+ Iraq,2015,649
+ Ireland,2015,935
+ Israel,2015,910
+ Italy,2015,882
+ Jamaica,2015,731
+ Japan,2015,908
+ Jordan,2015,730
+ Kazakhstan,2015,806
+ Kenya,2015,587
+ Kiribati,2015,625
+"Korea, Dem. People’s Rep.",2015,907
+ Kuwait,2015,801
+Kyrgyz Republic,2015,690
+Lao PDR,2015,598
+ Latvia,2015,849
+ Lebanon,2015,744
+ Lesotho,2015,503
+ Liberia,2015,477
+ Libya,2015,697
+ Liechtenstein,2015,911
+ Lithuania,2015,862
+ Luxembourg,2015,906
+ Madagascar,2015,522
+ Malawi,2015,468
+ Malaysia,2015,796
+ Maldives,2015,724
+ Mali,2015,417
+ Malta,2015,880
+ Mauritania,2015,536
+ Mauritius,2015,789
+ Mexico,2015,766
+"Micronesia, Fed. Sts.",2015,612
+ Moldova,2015,736
+ Mongolia,2015,735
+ Montenegro,2015,816
+ Morocco,2015,658
+ Mozambique,2015,433
+ Myanmar,2015,557
+ Namibia,2015,638
+ Nepal,2015,583
+ Netherlands,2015,934
+ New Zealand,2015,921
+ Nicaragua,2015,652
+ Niger,2015,372
+ Nigeria,2015,526
+ North Macedonia,2015,761
+ Norway,2015,947
+ Oman,2015,814
+ Pakistan,2015,536
+ Palau,2015,820
+ Panama,2015,799
+ Papua New Guinea,2015,548
+ Paraguay,2015,721
+ Peru,2015,759
+ Philippines,2015,701
+ Poland,2015,863
+ Portugal,2015,854
+ Qatar,2015,839
+ Romania,2015,815
+ Russian Federation,2015,809
+Rwanda,2015,526
+St. Kitts and Nevis,2015,768
+St. Lucia,2015,747
+St. Vincent and the Grenadines,2015,733
+ Samoa,2015,707
+ Sao Tome and Principe,2015,604
+ Saudi Arabia,2015,859
+ Senegal,2015,506
+ Serbia,2015,789
+ Seychelles,2015,786
+ Sierra Leone,2015,431
+ Singapore,2015,931
+Slovak Republic,2015,850
+ Slovenia,2015,894
+ Solomon Islands,2015,563
+ South Africa,2015,701
+ South Sudan,2015,425
+ Spain,2015,895
+ Sri Lanka,2015,776
+ Sudan,2015,504
+ Suriname,2015,740
+ Sweden,2015,938
+ Switzerland,2015,947
+ Syrian Arab Republic,2015,537
+ Tajikistan,2015,652
+ Tanzania,2015,514
+ Thailand,2015,749
+ Timor-Leste,2015,610
+ Togo,2015,499
+ Tonga,2015,720
+ Trinidad and Tobago,2015,792
+ Tunisia,2015,729
+ Turkey,2015,801
+ Turkmenistan,2015,694
+ Uganda,2015,525
+ Ukraine,2015,765
+ United Arab Emirates,2015,859
+ United Kingdom,2015,923
+ United States,2015,921
+ Uruguay,2015,806
+ Uzbekistan,2015,701
+ Vanuatu,2015,598
+"Venezuela, RB",2015,769
+Vietnam,2015,688
+"Yemen, Rep.",2015,483
+Zambia,2015,569
+Zimbabwe,2015,553
+Afghanistan,2016,502
+Albania,2016,788
+ Algeria,2016,743
+ Andorra,2016,866
+ Angola,2016,578
+Bermuda,2016,765
+ Argentina,2016,839
+ Armenia,2016,766
+ Australia,2016,939
+ Austria,2016,917
+ Azerbaijan,2016,751
+" Bahamas, The",2016,810
+ Bahrain,2016,853
+ Bangladesh,2016,606
+ Barbados,2016,811
+ Belarus,2016,815
+ Belgium,2016,924
+ Belize,2016,717
+ Benin,2016,533
+ Bhutan,2016,637
+ Bolivia ,2016,702
+ Bosnia and Herzegovina,2016,772
+ Botswana,2016,720
+ Brazil,2016,758
+ Brunei Darussalam,2016,839
+ Bulgaria,2016,811
+ Burkina Faso,2016,428
+ Burundi,2016,438
+ Cabo Verde,2016,657
+ Cambodia,2016,576
+ Cameroon,2016,553
+ Canada,2016,923
+ Central African Republic,2016,382
+ Chad,2016,393
+ Chile,2016,845
+ China,2016,746
+ Colombia,2016,760
+ Comoros,2016,547
+"Congo, Rep.",2016,578
+"Congo, Dem. Rep.",2016,471
+ Costa Rica,2016,801
+ Croatia,2016,841
+ Cuba,2016,773
+ Cyprus,2016,873
+Czech Republic,2016,893
+Cote d'Ivoire,2016,513
+ Denmark,2016,935
+ Djibouti,2016,505
+ Dominica,2016,740
+ Dominican Republic,2016,743
+ Ecuador,2016,758
+"Egypt, Arab Rep.",2016,696
+ El Salvador,2016,671
+ Equatorial Guinea,2016,588
+ Eritrea,2016,456
+ Estonia,2016,881
+ Eswatini,2016,588
+ Ethiopia,2016,467
+ Fiji,2016,738
+ Finland,2016,932
+ France,2016,894
+ Gabon,2016,690
+" Gambia, The",2016,475
+ Georgia,2016,792
+ Germany,2016,941
+ Ghana,2016,598
+ Greece,2016,874
+ Grenada,2016,771
+ Guatemala,2016,653
+ Guinea,2016,465
+ Guinea-Bissau,2016,468
+ Guyana,2016,676
+ Haiti,2016,500
+ Honduras,2016,626
+" Hong Kong, China (SAR)",2016,936
+ Hungary,2016,844
+ Iceland,2016,941
+ India,2016,630
+ Indonesia,2016,703
+"Iran, Islamic Rep.",2016,784
+ Iraq,2016,656
+ Ireland,2016,943
+ Israel,2016,913
+ Italy,2016,884
+ Jamaica,2016,731
+ Japan,2016,912
+ Jordan,2016,729
+ Kazakhstan,2016,808
+ Kenya,2016,591
+ Kiribati,2016,622
+"Korea, Dem. People’s Rep.",2016,910
+ Kuwait,2016,804
+Kyrgyz Republic,2016,691
+Lao PDR,2016,605
+ Latvia,2016,854
+ Lebanon,2016,741
+ Lesotho,2016,512
+ Liberia,2016,478
+ Libya,2016,687
+ Liechtenstein,2016,915
+ Lithuania,2016,867
+ Luxembourg,2016,910
+ Madagascar,2016,523
+ Malawi,2016,472
+ Malaysia,2016,800
+ Maldives,2016,728
+ Mali,2016,422
+ Malta,2016,885
+ Mauritania,2016,542
+ Mauritius,2016,794
+ Mexico,2016,768
+"Micronesia, Fed. Sts.",2016,614
+ Moldova,2016,738
+ Mongolia,2016,729
+ Montenegro,2016,818
+ Morocco,2016,667
+ Mozambique,2016,441
+ Myanmar,2016,563
+ Namibia,2016,639
+ Nepal,2016,586
+ Netherlands,2016,936
+ New Zealand,2016,924
+ Nicaragua,2016,657
+ Niger,2016,378
+ Nigeria,2016,526
+ North Macedonia,2016,765
+ Norway,2016,950
+ Oman,2016,815
+ Pakistan,2016,542
+ Palau,2016,822
+ Panama,2016,805
+ Papua New Guinea,2016,549
+ Paraguay,2016,722
+ Peru,2016,765
+ Philippines,2016,704
+ Poland,2016,869
+ Portugal,2016,855
+ Qatar,2016,845
+ Romania,2016,820
+ Russian Federation,2016,815
+Rwanda,2016,527
+St. Kitts and Nevis,2016,771
+St. Lucia,2016,752
+St. Vincent and the Grenadines,2016,734
+ Samoa,2016,710
+ Sao Tome and Principe,2016,608
+ Saudi Arabia,2016,859
+ Senegal,2016,509
+ Serbia,2016,795
+ Seychelles,2016,787
+ Sierra Leone,2016,431
+ Singapore,2016,935
+Slovak Republic,2016,853
+ Slovenia,2016,900
+ Solomon Islands,2016,561
+ South Africa,2016,703
+ South Sudan,2016,421
+ Spain,2016,899
+ Sri Lanka,2016,773
+ Sudan,2016,507
+ Suriname,2016,735
+ Sweden,2016,940
+ Switzerland,2016,947
+ Syrian Arab Republic,2016,528
+ Tajikistan,2016,653
+ Tanzania,2016,520
+ Thailand,2016,756
+ Timor-Leste,2016,598
+ Togo,2016,502
+ Tonga,2016,722
+ Trinidad and Tobago,2016,792
+ Tunisia,2016,731
+ Turkey,2016,808
+ Turkmenistan,2016,699
+ Uganda,2016,529
+ Ukraine,2016,768
+ United Arab Emirates,2016,864
+ United Kingdom,2016,924
+ United States,2016,922
+ Uruguay,2016,810
+ Uzbekistan,2016,705
+ Vanuatu,2016,598
+"Venezuela, RB",2016,759
+Vietnam,2016,693
+"Yemen, Rep.",2016,474
+Zambia,2016,571
+Zimbabwe,2016,558
+Afghanistan,2017,506
+Albania,2017,790
+ Algeria,2017,745
+ Andorra,2017,863
+ Angola,2017,582
+Bermuda,2017,768
+ Argentina,2017,843
+ Armenia,2017,769
+ Australia,2017,941
+ Austria,2017,919
+ Azerbaijan,2017,754
+" Bahamas, The",2017,812
+ Bahrain,2017,854
+ Bangladesh,2017,616
+ Barbados,2017,810
+ Belarus,2017,819
+ Belgium,2017,929
+ Belize,2017,714
+ Benin,2017,536
+ Bhutan,2017,646
+ Bolivia ,2017,710
+ Bosnia and Herzegovina,2017,774
+ Botswana,2017,726
+ Brazil,2017,761
+ Brunei Darussalam,2017,838
+ Bulgaria,2017,811
+ Burkina Faso,2017,439
+ Burundi,2017,434
+ Cabo Verde,2017,660
+ Cambodia,2017,582
+ Cameroon,2017,557
+ Canada,2017,926
+ Central African Republic,2017,391
+ Chad,2017,396
+ Chile,2017,847
+ China,2017,750
+ Colombia,2017,763
+ Comoros,2017,550
+"Congo, Rep.",2017,574
+"Congo, Dem. Rep.",2017,475
+ Costa Rica,2017,804
+ Croatia,2017,845
+ Cuba,2017,777
+ Cyprus,2017,878
+Czech Republic,2017,896
+Cote d'Ivoire,2017,525
+ Denmark,2017,936
+ Djibouti,2017,510
+ Dominica,2017,736
+ Dominican Republic,2017,746
+ Ecuador,2017,760
+"Egypt, Arab Rep.",2017,698
+ El Salvador,2017,671
+ Equatorial Guinea,2017,584
+ Eritrea,2017,454
+ Estonia,2017,885
+ Eswatini,2017,597
+ Ethiopia,2017,474
+ Fiji,2017,740
+ Finland,2017,935
+ France,2017,897
+ Gabon,2017,694
+" Gambia, The",2017,480
+ Georgia,2017,799
+ Germany,2017,943
+ Ghana,2017,602
+ Greece,2017,879
+ Grenada,2017,770
+ Guatemala,2017,655
+ Guinea,2017,471
+ Guinea-Bissau,2017,470
+ Guyana,2017,677
+ Haiti,2017,505
+ Honduras,2017,630
+" Hong Kong, China (SAR)",2017,941
+ Hungary,2017,846
+ Iceland,2017,943
+ India,2017,640
+ Indonesia,2017,707
+"Iran, Islamic Rep.",2017,787
+ Iraq,2017,667
+ Ireland,2017,947
+ Israel,2017,913
+ Italy,2017,886
+ Jamaica,2017,734
+ Japan,2017,915
+ Jordan,2017,726
+ Kazakhstan,2017,815
+ Kenya,2017,595
+ Kiribati,2017,627
+"Korea, Dem. People’s Rep.",2017,912
+ Kuwait,2017,805
+Kyrgyz Republic,2017,694
+Lao PDR,2017,608
+ Latvia,2017,859
+ Lebanon,2017,748
+ Lesotho,2017,517
+ Liberia,2017,481
+ Libya,2017,714
+ Liechtenstein,2017,916
+ Lithuania,2017,873
+ Luxembourg,2017,913
+ Madagascar,2017,526
+ Malawi,2017,473
+ Malaysia,2017,805
+ Maldives,2017,731
+ Mali,2017,427
+ Malta,2017,888
+ Marshall Islands,2017,699
+ Mauritania,2017,540
+ Mauritius,2017,797
+ Mexico,2017,771
+"Micronesia, Fed. Sts.",2017,616
+ Moldova,2017,743
+ Mongolia,2017,728
+ Montenegro,2017,822
+ Morocco,2017,673
+ Mozambique,2017,446
+ Myanmar,2017,572
+ Namibia,2017,644
+ Nepal,2017,588
+ Netherlands,2017,939
+ New Zealand,2017,926
+ Nicaragua,2017,661
+ Niger,2017,386
+ Nigeria,2017,531
+ North Macedonia,2017,767
+ Norway,2017,954
+ Oman,2017,819
+ Pakistan,2017,550
+ Palau,2017,822
+ Panama,2017,811
+ Papua New Guinea,2017,549
+ Paraguay,2017,726
+ Peru,2017,767
+ Philippines,2017,708
+ Poland,2017,873
+ Portugal,2017,858
+ Qatar,2017,848
+ Romania,2017,821
+ Russian Federation,2017,820
+Rwanda,2017,535
+St. Kitts and Nevis,2017,770
+St. Lucia,2017,759
+St. Vincent and the Grenadines,2017,734
+ Samoa,2017,710
+ Sao Tome and Principe,2017,619
+ Saudi Arabia,2017,852
+ Senegal,2017,512
+ Serbia,2017,798
+ Seychelles,2017,789
+ Sierra Leone,2017,443
+ Singapore,2017,933
+Slovak Republic,2017,855
+ Slovenia,2017,907
+ Solomon Islands,2017,562
+ South Africa,2017,705
+ South Sudan,2017,426
+ Spain,2017,903
+ Sri Lanka,2017,775
+ Sudan,2017,509
+ Suriname,2017,732
+ Sweden,2017,942
+ Switzerland,2017,949
+ Syrian Arab Republic,2017,564
+ Tajikistan,2017,657
+ Tanzania,2017,523
+ Thailand,2017,765
+ Timor-Leste,2017,599
+ Togo,2017,506
+ Tonga,2017,723
+ Trinidad and Tobago,2017,795
+ Tunisia,2017,734
+ Turkey,2017,814
+ Turkmenistan,2017,701
+ Uganda,2017,532
+ Ukraine,2017,771
+ United Arab Emirates,2017,881
+ United Kingdom,2017,926
+ United States,2017,924
+ Uruguay,2017,814
+ Uzbekistan,2017,713
+ Vanuatu,2017,601
+"Venezuela, RB",2017,743
+Vietnam,2017,696
+"Yemen, Rep.",2017,467
+Zambia,2017,578
+Zimbabwe,2017,563
+Afghanistan,2018,509
+Albania,2018,792
+ Algeria,2018,746
+ Andorra,2018,867
+ Angola,2018,582
+Bermuda,2018,772
+ Argentina,2018,842
+ Armenia,2018,771
+ Australia,2018,943
+ Austria,2018,921
+ Azerbaijan,2018,754
+" Bahamas, The",2018,812
+ Bahrain,2018,852
+ Bangladesh,2018,625
+ Barbados,2018,810
+ Belarus,2018,823
+ Belgium,2018,930
+ Belize,2018,714
+ Benin,2018,541
+ Bhutan,2018,649
+ Bolivia ,2018,714
+ Bosnia and Herzegovina,2018,777
+ Botswana,2018,730
+ Brazil,2018,762
+ Brunei Darussalam,2018,836
+ Bulgaria,2018,813
+ Burkina Faso,2018,443
+ Burundi,2018,431
+ Cabo Verde,2018,663
+ Cambodia,2018,585
+ Cameroon,2018,560
+ Canada,2018,928
+ Central African Republic,2018,395
+ Chad,2018,397
+ Chile,2018,849
+ China,2018,755
+ Colombia,2018,764
+ Comoros,2018,552
+"Congo, Rep.",2018,573
+"Congo, Dem. Rep.",2018,478
+ Costa Rica,2018,808
+ Croatia,2018,848
+ Cuba,2018,781
+ Cyprus,2018,885
+Czech Republic,2018,898
+Cote d'Ivoire,2018,534
+ Denmark,2018,939
+ Djibouti,2018,518
+ Dominica,2018,738
+ Dominican Republic,2018,751
+ Ecuador,2018,762
+"Egypt, Arab Rep.",2018,701
+ El Salvador,2018,670
+ Equatorial Guinea,2018,582
+ Eritrea,2018,456
+ Estonia,2018,889
+ Eswatini,2018,605
+ Ethiopia,2018,478
+ Fiji,2018,742
+ Finland,2018,937
+ France,2018,898
+ Gabon,2018,697
+" Gambia, The",2018,487
+ Georgia,2018,805
+ Germany,2018,946
+ Ghana,2018,606
+ Greece,2018,881
+ Grenada,2018,773
+ Guatemala,2018,657
+ Guinea,2018,473
+ Guinea-Bissau,2018,472
+ Guyana,2018,680
+ Haiti,2018,508
+ Honduras,2018,633
+" Hong Kong, China (SAR)",2018,946
+ Hungary,2018,850
+ Iceland,2018,946
+ India,2018,642
+ Indonesia,2018,712
+"Iran, Islamic Rep.",2018,785
+ Iraq,2018,671
+ Ireland,2018,951
+ Israel,2018,916
+ Italy,2018,890
+ Jamaica,2018,734
+ Japan,2018,917
+ Jordan,2018,728
+ Kazakhstan,2018,819
+ Kenya,2018,599
+ Kiribati,2018,628
+"Korea, Dem. People’s Rep.",2018,914
+ Kuwait,2018,807
+Kyrgyz Republic,2018,696
+Lao PDR,2018,609
+ Latvia,2018,863
+ Lebanon,2018,747
+ Lesotho,2018,522
+ Liberia,2018,480
+ Libya,2018,721
+ Liechtenstein,2018,919
+ Lithuania,2018,876
+ Luxembourg,2018,913
+ Madagascar,2018,527
+ Malawi,2018,478
+ Malaysia,2018,805
+ Maldives,2018,734
+ Mali,2018,431
+ Malta,2018,894
+ Marshall Islands,2018,702
+ Mauritania,2018,542
+ Mauritius,2018,801
+ Mexico,2018,776
+"Micronesia, Fed. Sts.",2018,618
+ Moldova,2018,746
+ Mongolia,2018,735
+ Montenegro,2018,826
+ Morocco,2018,680
+ Mozambique,2018,452
+ Myanmar,2018,579
+ Namibia,2018,645
+ Nepal,2018,596
+ Netherlands,2018,942
+ New Zealand,2018,928
+ Nicaragua,2018,659
+ Niger,2018,391
+ Nigeria,2018,534
+ North Macedonia,2018,770
+ Norway,2018,956
+ Oman,2018,813
+ Pakistan,2018,552
+ Palau,2018,822
+ Panama,2018,812
+ Papua New Guinea,2018,549
+ Paraguay,2018,727
+ Peru,2018,771
+ Philippines,2018,711
+ Poland,2018,877
+ Portugal,2018,860
+ Qatar,2018,845
+ Romania,2018,823
+ Russian Federation,2018,823
+Rwanda,2018,540
+St. Kitts and Nevis,2018,773
+St. Lucia,2018,758
+St. Vincent and the Grenadines,2018,736
+ Samoa,2018,709
+ Sao Tome and Principe,2018,624
+ Saudi Arabia,2018,854
+ Senegal,2018,516
+ Serbia,2018,803
+ Seychelles,2018,790
+ Sierra Leone,2018,447
+ Singapore,2018,936
+Slovak Republic,2018,858
+ Slovenia,2018,912
+ Solomon Islands,2018,564
+ South Africa,2018,707
+ South Sudan,2018,429
+ Spain,2018,905
+ Sri Lanka,2018,779
+ Sudan,2018,506
+ Suriname,2018,734
+ Sweden,2018,943
+ Switzerland,2018,955
+ Syrian Arab Republic,2018,563
+ Tajikistan,2018,661
+ Tanzania,2018,524
+ Thailand,2018,772
+ Timor-Leste,2018,599
+ Togo,2018,510
+ Tonga,2018,723
+ Trinidad and Tobago,2018,795
+ Tunisia,2018,738
+ Turkey,2018,817
+ Turkmenistan,2018,710
+ Uganda,2018,538
+ Ukraine,2018,774
+ United Arab Emirates,2018,889
+ United Kingdom,2018,928
+ United States,2018,925
+ Uruguay,2018,816
+ Uzbekistan,2018,717
+ Vanuatu,2018,603
+"Venezuela, RB",2018,733
+Vietnam,2018,700
+"Yemen, Rep.",2018,468
+Zambia,2018,582
+Zimbabwe,2018,569
+Afghanistan,2019,511
+Albania,2019,795
+ Algeria,2019,748
+ Andorra,2019,868
+ Angola,2019,581
+Bermuda,2019,778
+ Argentina,2019,845
+ Armenia,2019,776
+ Australia,2019,944
+ Austria,2019,922
+ Azerbaijan,2019,756
+" Bahamas, The",2019,814
+ Bahrain,2019,852
+ Bangladesh,2019,632
+ Barbados,2019,814
+ Belarus,2019,823
+ Belgium,2019,931
+ Belize,2019,716
+ Benin,2019,545
+ Bhutan,2019,654
+ Bolivia ,2019,718
+ Bosnia and Herzegovina,2019,780
+ Botswana,2019,735
+ Brazil,2019,765
+ Brunei Darussalam,2019,838
+ Bulgaria,2019,816
+ Burkina Faso,2019,452
+ Burundi,2019,433
+ Cabo Verde,2019,665
+ Cambodia,2019,594
+ Cameroon,2019,563
+ Canada,2019,929
+ Central African Republic,2019,397
+ Chad,2019,398
+ Chile,2019,851
+ China,2019,761
+ Colombia,2019,767
+ Comoros,2019,554
+"Congo, Rep.",2019,574
+"Congo, Dem. Rep.",2019,480
+ Costa Rica,2019,810
+ Croatia,2019,851
+ Cuba,2019,783
+ Cyprus,2019,887
+Czech Republic,2019,900
+Cote d'Ivoire,2019,538
+ Denmark,2019,940
+ Djibouti,2019,524
+ Dominica,2019,742
+ Dominican Republic,2019,756
+ Ecuador,2019,759
+"Egypt, Arab Rep.",2019,707
+ El Salvador,2019,673
+ Equatorial Guinea,2019,592
+ Eritrea,2019,459
+ Estonia,2019,892
+ Eswatini,2019,611
+ Ethiopia,2019,485
+ Fiji,2019,743
+ Finland,2019,938
+ France,2019,901
+ Gabon,2019,703
+" Gambia, The",2019,496
+ Georgia,2019,812
+ Germany,2019,947
+ Ghana,2019,611
+ Greece,2019,888
+ Grenada,2019,779
+ Guatemala,2019,663
+ Guinea,2019,477
+ Guinea-Bissau,2019,480
+ Guyana,2019,682
+ Haiti,2019,510
+ Honduras,2019,634
+" Hong Kong, China (SAR)",2019,949
+ Hungary,2019,854
+ Iceland,2019,949
+ India,2019,645
+ Indonesia,2019,718
+"Iran, Islamic Rep.",2019,783
+ Iraq,2019,674
+ Ireland,2019,955
+ Israel,2019,919
+ Italy,2019,892
+ Jamaica,2019,734
+ Japan,2019,919
+ Jordan,2019,729
+ Kazakhstan,2019,825
+ Kenya,2019,601
+ Kiribati,2019,630
+"Korea, Dem. People’s Rep.",2019,916
+ Kuwait,2019,806
+Kyrgyz Republic,2019,697
+Lao PDR,2019,613
+ Latvia,2019,866
+ Lebanon,2019,744
+ Lesotho,2019,527
+ Liberia,2019,480
+ Libya,2019,724
+ Liechtenstein,2019,919
+ Lithuania,2019,882
+ Luxembourg,2019,916
+ Madagascar,2019,528
+ Malawi,2019,483
+ Malaysia,2019,810
+ Maldives,2019,740
+ Mali,2019,434
+ Malta,2019,895
+ Marshall Islands,2019,704
+ Mauritania,2019,546
+ Mauritius,2019,804
+ Mexico,2019,779
+"Micronesia, Fed. Sts.",2019,620
+ Moldova,2019,750
+ Mongolia,2019,737
+ Montenegro,2019,829
+ Morocco,2019,686
+ Mozambique,2019,456
+ Myanmar,2019,583
+ Namibia,2019,646
+ Nepal,2019,602
+ Netherlands,2019,944
+ New Zealand,2019,931
+ Nicaragua,2019,660
+ Niger,2019,394
+ Nigeria,2019,539
+ North Macedonia,2019,774
+ Norway,2019,957
+ Oman,2019,813
+ Pakistan,2019,557
+ Palau,2019,826
+ Panama,2019,815
+ Papua New Guinea,2019,555
+ Paraguay,2019,728
+ Peru,2019,777
+ Philippines,2019,718
+ Poland,2019,880
+ Portugal,2019,864
+ Qatar,2019,848
+ Romania,2019,828
+ Russian Federation,2019,824
+Rwanda,2019,543
+St. Kitts and Nevis,2019,779
+St. Lucia,2019,759
+St. Vincent and the Grenadines,2019,738
+ Samoa,2019,715
+ Sao Tome and Principe,2019,625
+ Saudi Arabia,2019,854
+ Senegal,2019,512
+ Serbia,2019,806
+ Seychelles,2019,796
+ Sierra Leone,2019,452
+ Singapore,2019,938
+Slovak Republic,2019,860
+ Slovenia,2019,917
+ Solomon Islands,2019,567
+ South Africa,2019,709
+ South Sudan,2019,433
+ Spain,2019,904
+ Sri Lanka,2019,782
+ Sudan,2019,510
+ Suriname,2019,738
+ Sweden,2019,945
+ Switzerland,2019,955
+ Syrian Arab Republic,2019,567
+ Tajikistan,2019,668
+ Tanzania,2019,529
+ Thailand,2019,777
+ Timor-Leste,2019,606
+ Togo,2019,515
+ Tonga,2019,725
+ Trinidad and Tobago,2019,796
+ Tunisia,2019,740
+ Turkey,2019,820
+ Turkmenistan,2019,715
+ Uganda,2019,544
+ Ukraine,2019,779
+ United Arab Emirates,2019,890
+ United Kingdom,2019,932
+ United States,2019,926
+ Uruguay,2019,817
+ Uzbekistan,2019,720
+ Vanuatu,2019,609
+"Venezuela, RB",2019,711
+Vietnam,2019,704
+"Yemen, Rep.",2019,470
+Zambia,2019,584
+Zimbabwe,2019,571
