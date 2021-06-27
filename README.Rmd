@@ -1,30 +1,12 @@
----
-title: "Readme"
-author: "Tawe Kruse"
-date: "6/27/2021"
-output: html_document
----
+SuperZIP demo
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+See a version of it live at http://shiny.rstudio.com/gallery/superzip-example.html
 
-## R Markdown
+You can run this demo with:
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+if (!require(devtools))
+  install.packages("devtools")
+devtools::install_github("rstudio/leaflet")
+shiny::runGitHub("tawekruse/Worldmap")
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Data compiled for Coming Apart: The State of White America, 1960–2010 by Charles Murray (Crown Forum, 2012). This app was inspired by the Washington Post's interactive feature Washington: A world apart.
