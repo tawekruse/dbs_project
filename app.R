@@ -9,7 +9,7 @@ library(htmltools)
 library(raster)
 
 #reads the csv file optinal you could also connect to a postgres database and pull the data from it
-data <- read.csv("data/complete_data.csv", sep = ";")
+data <- read.csv("data/complete_data.csv")
 #reads the shapefile file that is important for the representation of the country borders
 world <- readOGR("data/world_shape_file/TM_WORLD_BORDERS_SIMPL-0.3.shp")
 world <- subset(world, is.element(world$ISO3, data$country_code))
@@ -21,8 +21,8 @@ pal_hdi <- colorBin("RdYlGn", domain = c(100, 1000), bins = bins_hdi)
 bins_gdp <- c(0, 10, 50, 100, 200, 500, 750, 3000, 22000)
 pal_gdp <- colorBin("RdYlBu", domain = c(0, 22000), bins = bins_gdp)
 
-bins_co2 <- c(0, 1000, 5000, 50000, 100000, 1000000, 5000000 ,10000000)
-pal_co2 <- colorBin("Reds", domain = c(0, 10000000), bins = bins_co2)
+bins_co2 <- c(0, 1, 5, 50, 100, 1000, 5000 ,10000)
+pal_co2 <- colorBin("Reds", domain = c(0, 10000), bins = bins_co2)
 
 bins_population <- c(0, 1, 5, 10, 50, 100, 1000, 1500)
 pal_population <- colorBin("Blues", domain = c(0, 1500), bins = bins_population)
@@ -50,7 +50,11 @@ ui <- dashboardPage(
             menuItem("GDP Map", tabName = "gdp"),
             menuItem("CO2 Map", tabName = "co2"),
             menuItem("Population Map", tabName = "population"),
-            menuItem("Analysis", tabName = "analysis")
+            menuItem("Analysis", tabName = "analysis"),
+            menuItem("Rankings", tabName = "ranking",
+                     menuSubItem("Top 10", tabName = "top10"),
+                     menuSubItem(sliderInput("year_ranking", label = "Select Year: ", min = 1960, max = 2019, 
+                                             value = 1990, step = 1, sep = "")))
         )
     ),
    dashboardBody(
@@ -119,7 +123,7 @@ ui <- dashboardPage(
                        plotOutput("co2_plot")
                    ),
                    box(
-                       sliderInput("year_co2", label = "Select Year: ", min = 1960, max = 2019, 
+                       sliderInput("year_co2", label = "Select Year: ", min = 1960, max = 2017, 
                                    value = 1990, step = 1, sep = ""),
                        selectInput("country_co2", "Choose a country:", choices = unique(data$country_name))
                    )
@@ -134,7 +138,7 @@ ui <- dashboardPage(
                        plotOutput("population_plot")
                    ),
                    box(
-                       sliderInput("year_population", label = "Select Year: ", min = 1960, max = 2019, 
+                       sliderInput("year_population", label = "Select Year: ", min = 1960, max = 2017, 
                                    value = 1990, step = 1, sep = ""),
                        selectInput("country_population", "Choose a country:", choices = unique(data$country_name))
                    )
@@ -162,6 +166,25 @@ ui <- dashboardPage(
                ),
                fluidRow(
                    box(width = 12, dataTableOutput(outputId = "summary_table"))
+               )
+           ),
+           tabItem(
+               tabName = "top10",
+               fluidRow(
+                   box(
+                       plotOutput("top10_hdi")
+                   ),
+                   box(
+                       plotOutput("top10_gdp")
+                   )
+               ),
+               fluidRow(
+                   box(
+                       plotOutput("top10_population")
+                   ),
+                   box(
+                       plotOutput("top10_co2")
+                   )
                )
            )
        )
@@ -287,7 +310,7 @@ server <- function(input, output) {
     })
     
     labels_co2 <- reactive({
-        sprintf("<strong>%s</strong><br/><div> CO<sub>2</sub> emissions: %g kt</div>",
+        sprintf("<strong>%s</strong><br/><div> CO<sub>2</sub> emissions: %g mt</div>",
                 data_co2()$country_name, data_co2()$co2_emissions) %>% 
             lapply(htmltools::HTML)
     })
@@ -314,7 +337,7 @@ server <- function(input, output) {
                       values = data_co2()$co2_emissions,
                       opacity = 0.5,
                       position = "bottomright",
-                      title = "CO2 emission in kt.")
+                      title = "CO2 emission in mt:")
     )
     
     #Data gets filtered by country
@@ -328,7 +351,7 @@ server <- function(input, output) {
         data_country_co2() %>% 
             ggplot(aes(x = year, y = co2_emissions)) +
             geom_line(color = "#3493e5") + 
-            labs(title = paste("CO2 Emissions", data_country_co2()$country_name), x = "Year", y = "CO2 Emissions in kt") +
+            labs(title = paste("CO2 Emissions", data_country_co2()$country_name), x = "Year", y = "CO2 Emissions in mt") +
             theme_bw()
     })
     
@@ -442,7 +465,7 @@ server <- function(input, output) {
             geom_line() +
             geom_line(data = world_data, aes(y = mean_co2)) +
             geom_line(data = continent_reac_data(), aes(y = mean_co2)) +
-            labs(x = "Year", y = "CO2 in Kilotons (kt)", caption = "Notice: World and Continent are mean values") +
+            labs(x = "Year", y = "CO2 in megatons (mt)", caption = "Notice: World and Continent are mean values") +
             theme(legend.title=element_blank())
     })
     
@@ -454,6 +477,84 @@ server <- function(input, output) {
             labs(x = "Year", y = "Population in Mio.", caption = "Notice: World and Continent are mean values") +
             theme(legend.title=element_blank())
     })
+    
+    #---------------------------------------------------------------------
+    #Plots for the Ranking panel are created
+    
+    data_top10_gdp <- reactive({
+        data %>% 
+            filter(year == input$year_ranking) %>% 
+            arrange(desc(gdp_value)) %>% 
+            group_by(gdp_value) %>% 
+            mutate(country_name = as.factor(country_name),
+                   gdp_value = round(gdp_value/1000, 2)) %>% 
+            head(n = 10)
+    })
+    
+    output$top10_gdp <- renderPlot({
+        ggplot(data = data_top10_gdp(), aes(x = country_name, y = gdp_value)) + 
+            geom_bar(stat="identity", fill = "#3493e5") +
+            geom_text(aes(label = gdp_value, hjust = 1.1), color = "white") +
+            labs(title = paste("Top 10 countries by GDP in", input$year_ranking, ":"), y = "GDP in Billion") +
+            coord_flip() +
+            theme(axis.title.y=element_blank())
+    })
+    
+    data_top10_hdi <- reactive({
+        data %>% 
+            filter(year == input$year_ranking) %>% 
+            arrange(desc(hdi_value)) %>% 
+            group_by(hdi_value) %>% 
+            mutate(country_name = as.factor(country_name)) %>% 
+            head(n = 10)
+    })
+    
+    output$top10_hdi <- renderPlot({
+        ggplot(data = data_top10_hdi(), aes(x = country_name, y = hdi_value)) + 
+            geom_bar(stat="identity", fill = "#3493e5") +
+            geom_text(aes(label = hdi_value, hjust = 1.1), color = "white") +
+            labs(title = paste("Top 10 countries by HDI in", input$year_ranking, ":"), y = "HDI") +
+            coord_flip() +
+            theme(axis.title.y=element_blank())
+    })
+    
+    data_top10_co2 <- reactive({
+        data %>% 
+            filter(year == input$year_ranking) %>% 
+            arrange(desc(co2_emissions)) %>% 
+            group_by(co2_emissions) %>% 
+            mutate(country_name = as.factor(country_name)) %>% 
+            head(n = 10)
+    })
+    
+    output$top10_co2 <- renderPlot({
+        ggplot(data = data_top10_co2(), aes(x = country_name, y = co2_emissions)) + 
+            geom_bar(stat="identity", fill = "#3493e5") +
+            geom_text(aes(label = co2_emissions, hjust = 1.1), color = "white") +
+            labs(title = paste("Top 10 countries with the highest CO2 production in", input$year_ranking, ":"), y = "CO2 emmisions in megatons") +
+            coord_flip() +
+            theme(axis.title.y=element_blank())
+    })
+    
+    data_top10_population <- reactive({
+        data %>% 
+            filter(year == input$year_ranking) %>% 
+            arrange(desc(population_count)) %>% 
+            group_by(population_count) %>% 
+            mutate(country_name = as.factor(country_name)) %>% 
+            head(n = 10)
+    })
+    
+    output$top10_population <- renderPlot({
+        ggplot(data = data_top10_population(), aes(x = country_name, y = population_count)) + 
+            geom_bar(stat="identity", fill = "#3493e5") +
+            geom_text(aes(label = population_count, hjust = 1.1), color = "white") +
+            labs(title = paste("Top 10 most densely populated countries in", input$year_ranking, ":"), y = "Population in Mio.") +
+            coord_flip() +
+            theme(axis.title.y=element_blank())
+    })
+    
+    
 }
 
 
