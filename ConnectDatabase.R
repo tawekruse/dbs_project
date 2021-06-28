@@ -3,8 +3,8 @@ library(RPostgres)
 
 co2_table <- read.csv("data/co2_tidy.csv", sep = ";")
 gdp_table <- read.csv("data/gdp_tidy.csv", sep = ";")
-hdi_table <- read.csv("data/", sep = ";")
-country_table <- read.csv("data/country_tidy.csv", sep = ";")
+hdi_table <- read.csv("data/hdi_tidy.csv")
+country_table <- read.csv("data/country_tidy.csv")
 population_total_table <- read.csv("data/population_total_tidy.csv", sep = ";")
 population_growth_table <- read.csv("data/population_growth_tidy.csv", sep = ";")
 
@@ -33,11 +33,11 @@ data_population_growth <- dbGetQuery(con, "select * from population_growth")
 data_population_total <- dbGetQuery(con, "select * from population_total")
 
 #Table that is worked with is created
-data <- left_join(data_country, data_gdp, by = "country_code", "year")
-data <- left_join(data, data_hdi, by = "country_code", "year")
-data <- left_join(data, data_co2, by = "country_code", "year")
-data <- left_join(data, data_population_growth, by = "country_code", "year")
-data <- left_join(data, data_population_total, by = "country_code", "year")
+data <- left_join(data_country, data_gdp, by = c("country_code"))
+data <- left_join(data, data_hdi, by = c("country_code", "year"))
+data <- left_join(data, data_co2, by = c("country_code", "year"))
+data <- left_join(data, data_population_growth, by = c("country_code", "year"))
+data <- left_join(data, data_population_total, by = c("country_code", "year"))
 
 #Connection to the database is terminated
 dbDisconnect(con)
