@@ -1,4 +1,4 @@
-# DBS Project
+# DBS Project by Marcus, Mert, Tawe
 
 You can run this project with:
 ```
