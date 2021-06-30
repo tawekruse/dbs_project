@@ -148,8 +148,7 @@ ui <- dashboardPage(
                tabName = "analysis",
                fluidRow(
                    box(
-                       selectInput("continent", "Select a continent: ", choices = unique(data$continent)),
-                       selectInput("country", "Select a country", choices = NULL)
+                       selectInput("country", "Select a country", choices = unique(data$country_name), selected = "Germany", multiple = TRUE)
                    ),
                    tabBox(
                        title = "Graphs",
@@ -414,16 +413,6 @@ server <- function(input, output) {
     #--------------------------------------------------
     #Data for the Analysis panel is generated
     
-    continent <- reactive({
-        data %>% 
-            filter(continent == input$continent)
-    })
-    
-    observeEvent(continent(), {
-        choices <- unique(continent()$country_name)
-        updateSelectInput(inputId = "country", choices = choices)
-    })
-    
     country <- reactive(
         data %>% 
             filter(country_name == input$country)
@@ -431,23 +420,11 @@ server <- function(input, output) {
     
     output$summary_table <- renderDataTable(country())
     
-    continent_reac_data <- reactive({
-        continent() %>% 
-            dplyr::select(hdi_value, year, gdp_value, co2_emissions, population_count, continent) %>%
-            group_by(year) %>% 
-            summarise(median_hdi = median(hdi_value, na.rm = TRUE),
-                      mean_gdp = mean(gdp_value, na.rm = TRUE),
-                      mean_co2 = mean(co2_emissions, na.rm = TRUE),
-                      continent_population = mean(population_count, na.rm = TRUE),
-                      country_name = continent()$continent)
-    })
-    
     output$sum_plot_hdi <- renderPlot({
             ggplot(data = subset(country(), year >= 1990), aes(x = year, y = hdi_value, color = country_name)) +
             geom_line() +
             geom_line(data = subset(world_data, year >= 1990), aes(y = median_hdi)) +
-            geom_line(data = subset(continent_reac_data(), year >= 1990), aes(y = median_hdi)) +
-            labs(x = "Year", y = "HDI Value", caption = "Notice: World and Continent are median values") +
+            labs(x = "Year", y = "HDI Value", caption = "Notice: World is a median value") +
             theme(legend.title=element_blank())
     })
     
@@ -455,8 +432,7 @@ server <- function(input, output) {
         ggplot(data = country(), aes(x = year, y = gdp_value, color = country_name)) +
             geom_line() +
             geom_line(data = world_data, aes(y = mean_gdp)) +
-            geom_line(data = continent_reac_data(), aes(y = mean_gdp)) +
-            labs(x = "Year", y = "GDP in Mrd.", caption = "Notice: World and Continent are mean values") +
+            labs(x = "Year", y = "GDP in Mrd.", caption = "Notice: World is a mean value") +
             theme(legend.title=element_blank())
     })
     
@@ -464,8 +440,7 @@ server <- function(input, output) {
         ggplot(data = country(), aes(x = year, y = co2_emissions, color = country_name)) +
             geom_line() +
             geom_line(data = world_data, aes(y = mean_co2)) +
-            geom_line(data = continent_reac_data(), aes(y = mean_co2)) +
-            labs(x = "Year", y = "CO2 in megatons (mt)", caption = "Notice: World and Continent are mean values") +
+            labs(x = "Year", y = "CO2 in megatons (mt)", caption = "Notice: World is a mean value") +
             theme(legend.title=element_blank())
     })
     
@@ -473,8 +448,7 @@ server <- function(input, output) {
         ggplot(data = country(), aes(x = year, y = population_count, color = country_name)) +
             geom_line() +
             geom_line(data = subset(world_data, year < 2018), aes(y = world_population)) +
-            geom_line(data = subset(continent_reac_data(), year < 2018), aes(y = continent_population)) +
-            labs(x = "Year", y = "Population in Mio.", caption = "Notice: World and Continent are mean values") +
+            labs(x = "Year", y = "Population in Mio.", caption = "Notice: World is a mean value") +
             theme(legend.title=element_blank())
     })
     
