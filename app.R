@@ -7,6 +7,7 @@ library(sp)
 library(DT)
 library(htmltools)
 library(raster)
+library(broom) 
 
 #reads the csv file optinal you could also connect to a postgres database and pull the data from it
 data <- read.csv("data/complete_data.csv")
@@ -50,7 +51,9 @@ ui <- dashboardPage(
             menuItem("GDP Map", tabName = "gdp"),
             menuItem("CO2 Map", tabName = "co2"),
             menuItem("Population Map", tabName = "population"),
-            menuItem("Analysis", tabName = "analysis"),
+            menuItem("Analysis", tabName = "analysis",
+                     menuSubItem("Country comparison", tabName = "compare"),
+                     menuSubItem("Regression", tabName = "regression")),
             menuItem("Rankings", tabName = "ranking",
                      menuSubItem("Top 10", tabName = "top10"),
                      menuSubItem(sliderInput("year_ranking", label = "Select Year: ", min = 1960, max = 2019, 
@@ -145,7 +148,7 @@ ui <- dashboardPage(
                ) 
            ),
            tabItem(
-               tabName = "analysis",
+               tabName = "compare",
                fluidRow(
                    box(
                        selectInput("country", "Select a country", choices = unique(data$country_name), selected = "Germany", multiple = TRUE)
@@ -165,6 +168,56 @@ ui <- dashboardPage(
                ),
                fluidRow(
                    box(width = 12, dataTableOutput(outputId = "summary_table"))
+               )
+           ),
+           tabItem(
+               tabName = "regression",
+               fluidRow(box(
+                   h2("What is Linear Regression?"),
+                   "Linear regression is an algorithm used to predict, or visualize, 
+                   a relationship between two different features/variables. 
+                   In linear regression tasks, there are two kinds of variables being examined: 
+                   the dependent variable and the independent variable. The independent variable 
+                   is the variable that stands by itself, not impacted by the other variable. 
+                   As the independent variable is adjusted, the levels of the dependent variable will fluctuate. 
+                   The dependent variable is the variable that is being studied, and it is what the regression 
+                   model solves for/attempts to predict. In linear regression tasks, every observation/instance 
+                   is comprised of both the dependent variable value and the independent variable value.",
+                   tags$a(href="https://www.unite.ai/what-is-linear-regression/", "(Unite.AI)"),
+                   sliderInput("year_regression", label = "Select Year: ", min = 1960, max = 2017, 
+                               value = 1990, step = 1, sep = "")
+                   
+               ),
+               box(HTML('<iframe width="560" height="315" src="https://www.youtube.com/embed/owI7zxCqNY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'))
+               ),
+               fluidRow(
+                   box(
+                       h3("Question: Is there a linear relationship between Co2 emissions and HDI value?"),
+                       tableOutput("reg_hdi_tidy"),
+                       "If you don't know how to interpret logarithmically transformed linear regressions check out the tutorial from UCLA",
+                       tags$a(href="https://stats.idre.ucla.edu/sas/faq/how-can-i-interpret-log-transformed-variables-in-terms-of-percent-change-in-linear-regression/","(Tutorial)")
+                   ),
+                   box(
+                       plotOutput("plot_reg_hdi")
+                   )
+               ),
+               fluidRow(
+                   box(
+                       h3("Question: Is there a linear relationship between Co2 emissions and population size?"),
+                       tableOutput("reg_population_tidy")
+                   ),
+                   box(
+                       plotOutput("plot_reg_population")
+                   )
+               ),
+               fluidRow(
+                   box(
+                       h3("Question: Is there a linear relationship between Co2 emissions and GDP?"),
+                       tableOutput("reg_gdp_tidy")
+                   ),
+                   box(
+                       plotOutput("plot_reg_gdp")
+                   )
                )
            ),
            tabItem(
@@ -528,7 +581,49 @@ server <- function(input, output) {
             theme(axis.title.y=element_blank())
     })
     
+    #-------------------------------------------------------------------------
+    #Plots for the Regrassion and Outputs are created
     
+    data_regression <- reactive({
+        data %>% 
+            filter(year == input$year_regression) %>% 
+            mutate(co2_emissions = log(co2_emissions))
+    })
+    
+    output$plot_reg_hdi <- renderPlot({
+        ggplot(data_regression(), aes(hdi_value ,co2_emissions)) +
+            geom_point()+
+            geom_smooth(method = "lm") +
+            labs(y = "log(CO2 emmisions)", x = "HDI Value")
+    })
+    
+    output$reg_hdi_tidy <- renderTable({
+        glm(data = data_regression(), co2_emissions ~ hdi_value, family = "gaussian") %>% tidy(exponentiate = TRUE)
+    })
+    
+    output$plot_reg_population <- renderPlot({
+        ggplot(data_regression(), aes(population_count ,co2_emissions)) +
+            geom_point() +
+            geom_text(aes(label=ifelse(population_count >100,as.character(country_name),'')),hjust=-0.1,vjust=0) +
+            geom_smooth(method = "lm") +
+            labs(y = "log(CO2 emmisions)", x = "Population in Mio.")
+    })
+    
+    output$reg_population_tidy <- renderTable({
+        glm(data = data_regression(), co2_emissions ~ population_count, family = "gaussian") %>% tidy(exponentiate = TRUE)
+    })
+    
+    output$reg_gdp_tidy <- renderTable({
+        glm(data = data_regression(), co2_emissions ~ gdp_value, family = "gaussian") %>% tidy(exponentiate = TRUE)
+    })
+    
+    output$plot_reg_gdp <- renderPlot({
+        ggplot(data_regression(), aes(gdp_value ,co2_emissions)) +
+            geom_point() +
+            geom_text(aes(label=ifelse(gdp_value >500,as.character(country_name),'')),hjust=-0.1,vjust=0) +
+            geom_smooth(method = "lm") +
+            labs(y = "log(CO2 emmisions)", x = "GDP in Mrd.")
+    })
 }
 
 
